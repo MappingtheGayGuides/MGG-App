@@ -17,7 +17,7 @@ fluidRow(
   column(9,
          leafletOutput("spaces_map"),
           sliderInput("map.year", "Year",
-                       min = 1963, max = 1980,
+                       min = 1965, max = 1980,
                        value = 1900, sep = "", round = TRUE, step = 1, width = "100%")))
           
 )
