@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567095821716.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8C947FC6",
+    "lastKnownWriteTime" : 1567105675,
+    "last_content_update" : 1567105675555,
+    "path" : "~/Dropbox/MappingGayGuides/MGG-App/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "16,10",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
