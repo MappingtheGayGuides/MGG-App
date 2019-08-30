@@ -72,4 +72,5 @@ location.list$city.state <- paste(location.list$city, ", ", location.list$state,
 location.list <- distinct(location.list)
 location.list <- arrange(location.list, state, city)
 write.csv(location.list, "locations.csv", row.names=FALSE)
-
+#create a list of amenities
+amenities <- origAddress %>% select(amenityfeatures)

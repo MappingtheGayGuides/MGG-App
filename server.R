@@ -12,6 +12,10 @@ server <- function(input, output, session) {
       city_filter <- strsplit(input$map.city, ", ")[[1]]
       
       map.data <- data %>% filter(Year == input$map.year)
+      if(input$map.am.feature != "Show all") {
+        map.data <- map.data %>% 
+          filter(grepl(input$map.am.feature, map.data$amenityfeatures))
+      }
       
       if (all(city_filter != "All cities")) {
           map.data <- map.data %>% 

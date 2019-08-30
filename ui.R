@@ -11,7 +11,17 @@ titlePanel(HTML("Mapping the Gay Guides")),
 fluidRow(
   column(3, wellPanel(
     selectInput("map.city", "Choose a city:", cities),
-    selectInput("map_amenity_feature", "Choose an establishment feature:", c("Show All", "(PE) - Pretty Elegant", "Miami", "Nashville"), selected = "Show All", multiple = TRUE, selectize = TRUE, width = NULL, size = NULL),
+    #selectInput("variable", "Variable:",
+              #  c("Cylinders" = "cyl",
+               #   "Transmission" = "am",
+                #  "Gears" = "gear")),
+    selectInput("map.am.feature", "Choose an establishment feature:", 
+                c("Show all" = "Show all",
+                  "Very Popular" = "Very popular",
+                  "Coffee, soft drinks and sometimes snacks" = "(C)",
+                  "Dancing" = "(D)",
+                  "Girls, but seldom exclusively" = "(G)" ), 
+                selected = "Show all", multiple = FALSE, selectize = TRUE, width = NULL, size = NULL),
     includeHTML("authors.html")
   )),
   
