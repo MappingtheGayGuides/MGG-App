@@ -31,8 +31,8 @@ server <- function(input, output, session) {
   output$spaces_map <- renderLeaflet({
       
     leaflet(data.selected()) %>% addTiles() %>%
-        addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions())
-    
+        addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions(), popup = ~title)
+
     })
   
   data.for.table <- reactive({

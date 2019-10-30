@@ -6,7 +6,10 @@ library("DT")
 
 ui <- fluidPage(
   theme= shinytheme("united"),
-  
+  tags$head(
+    tags$script(src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.16/iframeResizer.contentWindow.min.js",
+                type="text/javascript")
+  ),  
 titlePanel(HTML("Mapping the Gay Guides")),
 fluidRow(
   column(3, wellPanel(
@@ -31,7 +34,8 @@ fluidRow(
                        min = 1965, max = 1980,
                        value = 1900, sep = "", round = TRUE, step = 1, width = "100%")),
           dataTableOutput("spaces.table", width="100%", height="auto")
-  )
+  ),
+HTML('<div data-iframe-height></div>')
 
 )
 

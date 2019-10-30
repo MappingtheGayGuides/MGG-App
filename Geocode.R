@@ -5,9 +5,14 @@
 library(ggmap)
 library(dplyr)
 library(stringr)
+library(plyr)
+library(tidyr)
 
 # Read in CSV
 #origAddress <- read.csv("MGG-App/NGSData/1965.csv", header = TRUE, sep =",", stringsAsFactors = FALSE)
+
+
+########FUNCTION FOR READING IN ALL DATA FILES########
 
 readData <- function( filename ) {
   
@@ -22,6 +27,9 @@ readData <- function( filename ) {
   
   return( data )
 }
+
+########READ IN DATA AND PREP FOR GEOCODING########
+
 origAddress <- ldply( .data = list.files(path="NGSData/", pattern="*.csv", include.dirs = TRUE),
                   .fun = readData,
                   .parallel = TRUE )
@@ -32,8 +40,11 @@ origAddress <- origAddress %>%
 origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$city, ", ", origAddress$state, sep="") 
 
 #drop unclear addresses. We may want to subset them into another data frame that we investigate further later in this process. 
+unclearaddresses <- origAddress %>% filter(str_detect(unclearaddress, "checked"))
 origAddress <- subset(origAddress, unclearaddress!="checked")
 
+
+##########GEOCODE DATA############################
 
 
 # Register the google api code for the georeferencing service.
@@ -49,20 +60,49 @@ for(i in 1:nrow(origAddress)) {
 }
 
 
+##########MANIPULATE UNCLEAR DATA#################
 
+#Make unclear address match the geocoded dataset 
+uncleardata <- read.csv(file = "NGSData/CodedData/unclearaddresses.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+
+#trim white space
+ucleardata <- uncleardata %>%
+  mutate_if(is.character, trimws)
+
+#create full address column
+uncleardata$full.address <- paste(uncleardata$streetaddress, ", ", uncleardata$city, ", ", uncleardata$state, sep="") 
+
+#split Lat/Long out into two columns
+separate(uncleardata$Lat.Lon, c("lat", "lon"), ",")
+uncleardata <- separate(uncleardata, col = Lat.Lon, into = c("lat","lon"), sep = ",")
+
+#make sure both dfs have same columns
+origAddress['Status'] = 'Geocoded'
+uncleardata['geoAddress'] = 'unclear_coded_by_hand'
+alldata <- rbind(origAddress, uncleardata)
+
+
+########MERGE THE TWO DATASETS########
 
 
 #remove empty rows or NAs if there are any
-origAddress <- origAddress[!apply(is.na(origAddress) | origAddress == "", 1, all),]
+#origAddress <- origAddress[!apply(is.na(origAddress) | origAddress == "", 1, all),]
 
+#Convert all lon/lat columns to numeric
+alldata$lat <- as.numeric(alldata$lat)
+alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(origAddress, "NGSData/CompleteDataset.csv", row.names=FALSE)
-saveRDS(origAddress, "NGSData/Data.rds")
+write.csv(test, "NGSData/CodedData/CompleteDataset.csv", row.names=FALSE)
+saveRDS(test, "NGSData/Data.rds")
+
+
+
+########LEAFLET TEST (uncessary and can be deleted)########
 
 #test the map -- good for identifying errors right off the bat. 
 library(leaflet)
 
-leaflet(data = origAddress) %>% addTiles() %>%
+leaflet(data = alldata) %>% addTiles() %>%
   addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions())
 
 #Generate city, state lables for drop down. 
