@@ -1,221 +1,172 @@
-﻿ID,title,description,streetaddress,city,state,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified
-1,Fire Pit,,1915 5th Ave N,Birmingham,AL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:22am,8/19/2019 12:26am
-2,Jewel Box,"Dinkler-Tutwiler Hotel
-",20th St & 5th Ave N,Birmingham,AL,"(M) - Mixed Crowds,(PE) - Pretty elegant - jacket & tie may be required","Bars/Clubs,Hotels",,,8/19/2019 12:22am,8/28/2019 2:44pm
-3,Mammy's Pancake House,,"2151 Hihgland Ave S
-",Birmingham,AL,"""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,8/19/2019 12:22am,8/19/2019 12:26am
-4,Rathskeller,,400 N 20th St,Birmingham,AL,,Bars/Clubs,,,8/19/2019 12:22am,8/19/2019 12:26am
+﻿ID,title,description,streetaddress,city,state,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified,Year
+1,Fire Pit,,1915 5th Ave N,Birmingham,AL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+3,Mammy's Pancake House,,2151 Highland Ave S,Birmingham,AL,"""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,8/18/2019 10:22pm,9/7/2019 11:32am,1968
 5,Red Room,"Redmont Hotel
-",2101 5th Ave N,Birmingham,AL,,"Bars/Clubs,Hotels",,,8/19/2019 12:22am,8/28/2019 2:44pm
-6,Club Royal,,78 S Royal,Mobile,AL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:22am,8/19/2019 12:27am
-7,Flamingo Room,Mobile Steak House,170 S St Francis St,Mobile,AL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:22am,8/19/2019 12:27am
-8,Key Hole,,80 Commerce st,Montgomery,AL,,Bars/Clubs,,,8/19/2019 12:22am,8/19/2019 12:27am
-9,Jefferson Davis Hotel Bar,,Catoma St & Montgomery,Montgomery,AL,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/19/2019 12:22am,8/28/2019 2:44pm
-10,Mollie's,,360 Central Ave,Hot Springs,AR,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",(M) - Mixed Crowds",Restaurant,,,8/19/2019 12:22am,8/19/2019 1:00am
-11,Peacock Lounge,,220 Central Ave,Hot Springs,AR,,Bars/Clubs,,,8/19/2019 12:22am,8/19/2019 1:00am
-12,Gar Hole,Marion Hotel,Marion Hotel,Little Rock,AR,,"Bars/Clubs,Hotels",checked,,8/19/2019 12:23am,8/28/2019 2:44pm
-13,Nightingale,,24 S Garden Ave,Clearwater,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:10am
-14,State Bar,,S Garden Avwe,Clearwater,FL,(M) - Mixed Crowds,Bars/Clubs,checked,,8/19/2019 12:23am,8/19/2019 1:10am
-15,Castle Club,Inquire locally,,Daytona Beach,FL,"(D) - Dancing,(P) - Private club - Inquire locally to admission",Bars/Clubs,checked,,8/19/2019 12:23am,8/19/2019 1:10am
-16,Hollywood Bar,,415 Main St,Daytona Beach,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:10am
-17,Vagabond Hut,North end of Boardwalk,,Daytona Beach,FL,(M) - Mixed Crowds,Bars/Clubs,checked,,8/19/2019 12:23am,8/19/2019 1:10am
-18,Yum Yum Tree,Hwy 1 in Holly Hill,703 Ridgewood,Daytona Beach,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:10am
-19,Elbo Room,"(Collegiate) Ft. Lauderdale Beach
-",241 S Atalntic ,Ft. Lauderdale,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:10am
-20,George's Ocean House,Ft. Lauderdale Beach,1609 N Atlantic ,Ft. Lauderdale,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/19/2019 12:23am,8/19/2019 1:06am
-21,The Saloon,,219 SW 1st Ave,Ft. Lauderdale,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-22,Zanzibar,,214 SW 1st ave,Ft. Lauderdale,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-23,Bradford Hotel Lounge,,Main St,Ft. Myers,FL,,"Bars/Clubs,Hotels",checked,,8/19/2019 12:23am,8/28/2019 2:44pm
-24,Calypso Lounge,,150 San Carlos,Ft. Myers,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-25,Pub,"(Collegiate)
-",921 W University Ave,Gainesville,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-26,Cork Room,,Hwy 1,Hallandale,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,checked,,8/19/2019 12:23am,8/19/2019 1:11am
-27,Top's Original Annex,,2027 Pembroke Rd,Hollywood,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-28,Bo's Reef,,3225 Frost,Jacksonville,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-29,Circus Bar,(Inquire locally),,Jacksonville,FL,,Bars/Clubs,checked,,8/19/2019 12:23am,8/19/2019 1:11am
-30,Howard's,,238 W Adams,Jacksonville,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-31,Waldorf Lounge,,14 E Forsythe,Jacksonville,FL,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-32,Butch's,(Open Sunday),412 Boardwalk,Jacksonville Beach,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-33,El-Bo Room,,3rd Ave & 3rd St,Jacksonville Beach,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-34,Cecil's,,613 Duval,Key West,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/19/2019 1:11am
-35,Cactus Lounge,,2041 NE Biscayne,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:03am
-36,Candleight,"(Coconut Grove)
-",3131 Commodore Plaza,Miami,FL,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/19/2019 12:23am,8/19/2019 1:08pm
-37,Carnival,,137 NE 3rd St,Miami,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-38,Circus ,,Hwy 1 North Miami,Miami,FL,,Bars/Clubs,checked,,8/19/2019 12:23am,8/22/2019 3:04am
-39,Deluxe,,2800 NW 27th St,Miami,FL,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-40,El Carol,,930 Le Joune Rd Coral Gables,Miami,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-41,Fox Hole,,2000 NE 2nd Ave,Miami,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-42,Google's,,5832 NW 27th St,Miami,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-43,Hamlet,(Collegiate),3416 Main Hwy Coconut Grove,Miami,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-44,Le Moon Villas,,2661 Bayshore Dr Coconut Grove,Miami,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/19/2019 12:23am,8/19/2019 1:32pm
-45,Leprechaun,,7305 Bird Rd West Miami,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-46,Little Spot,(above Big Spot--use side street private entrance),3604 SW 8th St,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-47,Mermaid Room,(Behind Vic's-use side street private entrance),101 NE 2nd Ave,Miami,FL,"(*) - Very popular,(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-48,Nook Beer Bar,,255 Minorca Coral Gables,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-49,Pagoda Room,(Back room at the Big Spot),3604 SW 8th St,Miami,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:04am
-50,Studio,,3071 SW 32nd Ave,Miami,FL,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/19/2019 12:23am,8/22/2019 3:05am
-51,Top of the Roman,(upstairs),NE 2nd Ave & 2nd St,Miami,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:52am
-52,Alley,(behind the South Wind--enter via parking lot in rear),1685 Alton Rd,Miami Beach,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-53,Barbary Coast,,401 Ocean Dr,Miami Beach,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-54,Basin St,,1610 Alton Rd,Miami Beach,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-55,Casbar,,1390 Ocean Dr,Miami Beach,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-56,Cook's Bath House,,475 Ocean Dr,Miami Beach,FL,,Baths,,,8/19/2019 12:23am,8/22/2019 3:53am
-57,Frenchie's,,1614 Alton Rd,Miami Beach,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-58,Mayflower Lounge,(go thru bar to Billy Lee's Back Room),1716 Alton Rd,Miami Beach,FL,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-59,Pin Up,,2228 Park Av,Miami Beach,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:53am
-60,Cactus Room,,60 N Orange,Orlando,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-61,Lido,,420 Ocean Ave,Palm Beach,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-62,San Carlos Hotel Bar,,1 Pelfox,Pensacola,FL,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/19/2019 12:23am,8/28/2019 2:44pm
-63,Trader Jon's,,511 S Pelfox,Pensacola,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-64,Davey Jones' Locker,(Impersonator & tourists. Winter only) St. Petersburg Beach,7212 Gulf Blvd,St. Petersburg,FL,(S) - Shows - impersonators or record pantomime acts - often touristy,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-65,Patio,,1637 4th St S,St. Petersburg,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-66,Sherwood,,7 1st St N,St. Petersburg,FL,"(PE) - Pretty elegant - jacket & tie may be required,(*) - Very popular",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-67,Trade Winds,,233 Central Ave,St. Petersburg,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-68,Elbo Room,,5 Blvd of Presidents,Sarasota,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-69,Hurricane,,Main & Palm,Sarasota,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-70,Northside Tavern,,2805 N Tamiami,Sarasota,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:57am
-71,Cypress Lounge,Floridian Hotel,204 N Monroe,Tallahassee,FL,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/19/2019 12:23am,8/28/2019 2:44pm
-72,Le Roc Bar,,415 N Monroe,Tallahassee,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 3:59am
-73,Long Branch,,W Tennessee,Tallahassee,FL,(*) - Very popular,Bars/Clubs,checked,,8/19/2019 12:23am,8/22/2019 3:59am
-74,Carousel,,1806 W Platt St,Tampa,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-75,Jimmy White's,,1725 W Kennedy,Tampa,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-76,Ohio,,Tampa & Polk,Tampa,FL,"(M) - Mixed Crowds,(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-77,Kikiki,,723 Morgan,Tampa,FL,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-78,Turf,,221 Datura,West Palm Beach,FL,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-79,Blue Room,,86 Cain NW,Atlanta,GA,"(RT) - 'Raunchy types' - downtown type places - often hustlers,(*) - Very popular",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-80,Cameo Lounge,,182 Spring NW,Atlanta,GA,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-81,Dupree Lounge,,715 Ponce de Leon,Atlanta,GA,"""(G) - Girls, but rarely exclusively"",(M) - Mixed Crowds",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-82,Joy Lounge,,557 Ponce de Leon,Atlanta,GA,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
+",2101 5th Ave N,Birmingham,AL,,"Bars/Clubs,Hotels",,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+4,Rathskeller,,400 N 20th St,Birmingham,AL,,Bars/Clubs,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+6,Club Royal,,78 S Royal,Mobile,AL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+7,Flamingo Room,Mobile Steak House,170 S St Francis St,Mobile,AL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+8,Key Hole,,80 Commerce st,Montgomery,AL,,Bars/Clubs,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+81,Dupree Lounge,,715 Ponce de Leon,Atlanta,GA,"""(G) - Girls, but rarely exclusively"",(M) - Mixed Crowds",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+79,Blue Room,,86 Cain NW,Atlanta,GA,"(RT) - 'Raunchy types' - downtown type places - often hustlers,(*) - Very popular",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+80,Cameo Lounge,,182 Spring NW,Atlanta,GA,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+82,Joy Lounge,,557 Ponce de Leon,Atlanta,GA,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+86,Purple Poodle,Georgian Terrace Hotel,659 Peachtree NE,Atlanta,GA,(PE) - Pretty elegant - jacket & tie may be required,"Bars/Clubs,Hotels",,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+85,Piccolo,,1129 Peachtree,Atlanta,GA,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
 83,Mrs P's,"Ponce De Leon Hotel
-",551 Ponce de Leon,Atlanta,GA,(*) - Very popular,"Bars/Clubs,Hotels",,,8/19/2019 12:23am,8/28/2019 2:44pm
-84,Petite Lounge,"Dinkler Plaza Hotel
-",Forsythe & Luckie,Atlanta,GA,"(M) - Mixed Crowds,(PE) - Pretty elegant - jacket & tie may be required","Bars/Clubs,Hotels",,,8/19/2019 12:23am,8/28/2019 2:44pm
-85,Piccolo,,1129 Peachtree,Atlanta,GA,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-86,Purple Poodle,Georgian Terrace Hotel,659 Peachtree NE,Atlanta,GA,(PE) - Pretty elegant - jacket & tie may be required,"Bars/Clubs,Hotels",,,8/19/2019 12:23am,8/28/2019 2:44pm
-87,Red Dog Saloon,,3106 Peacetree,Atlanta,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-88,Whisk'a Go Go,(Upstairs bar),225 Peachtree,Atlanta,GA,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:02am
-89,Rebel Room,,1001 Green St,Augusta,GA,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-90,Checkmate,,1301 1st Ave,Columbus,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-91,Ann's Tic Toc,,408 Broadway,Macon,GA,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-92,Colonial Gardens,,115 Abercorn,Savannah,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-93,Dungeon,,238 Whitacker,Savannah,GA,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-94,Port Royal,,207 E River St,Savannah,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
+",551 Ponce de Leon,Atlanta,GA,(*) - Very popular,"Bars/Clubs,Hotels",,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+87,Red Dog Saloon,,3106 Peacetree,Atlanta,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+92,Colonial Gardens,,115 Abercorn,Savannah,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+93,Dungeon,,238 Whitacker,Savannah,GA,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+90,Checkmate,,1301 1st Ave,Columbus,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+94,Port Royal,,207 E River St,Savannah,GA,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+91,Ann's Tic Toc,,408 Broadway,Macon,GA,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+88,Whisk'a Go Go,(Upstairs bar),225 Peachtree,Atlanta,GA,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+89,Rebel Room,,1001 Green St,Augusta,GA,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+99,Den,,4065 Florida Ave,Baton Rouge,LA,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+101,Le Cabrie,,206 E Vermilion,Lafayette,LA,,Bars/Clubs,,,8/18/2019 10:26pm,9/7/2019 11:23am,1968
+102,Ivy Lounge,,316 Pujo,Lake Charles,LA,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+103,My-O-My Club,(Touristy),1744 Lake Ave,Metarie,LA,(S) - Shows - impersonators or record pantomime acts - often touristy,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+104,Canal Baths,,512 Gravier,New Orleans,LA,,Baths,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+105,Coffee Pot,,714 Peter St,New Orleans,LA,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+106,Fatted Calf,,727 St Peter St,New Orleans,LA,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",(M) - Mixed Crowds",Restaurant,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+107,Finale ,(Restaurant upstairs),1041 Royal,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+108,Galley House,,542 Chartres St,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+109,Goldern Lantern,,1239 Royal St,New Orleans,LA,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+111,Lafitte's in Exile,,901 Bourbon St,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+112,Lafitte's Annex,,730 Burgundy St,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+114,Society Page,,819 St. Louis St,New Orleans,LA,"(RT) - 'Raunchy types' - downtown type places - often hustlers,(*) - Very popular",Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+115,Speakeasy,,834 N Rampart St,New Orleans,LA,"(M) - Mixed Crowds,(S) - Shows - impersonators or record pantomime acts - often touristy",Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+110,Kookie's,,1210 N Rampart,New Orleans,LA,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+113,Mr D's,,600 Dauphine,New Orleans,LA,"""(G) - Girls, but rarely exclusively"",(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+116,Wanda's,,608 Iberville,New Orleans,LA,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+118,Gay 90's,,716 Louisiana Ave,Shreveport,LA,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+119,Korner,,800 Louisiana Ave,Shreveport,LA,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+117,Elbow Room,,708 Louisiana Ave,Shreveport,LA,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+127,Blue Note,,1421 E Morehead,Charlotte,NC,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+126,Tempo,(Collegiate),159 B E 4th St,Chapel Hill,NC,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+129,Sheraton-Barringer Hotel Bar,,426 N Tyson,Charlotte,NC,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+128,Hoot Mon,,1427 E 4th St,Charlotte,NC,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+131,Cadillac Lounge,,334 Gillespie,Fayetteville,NC,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+132,General Greene Bar,,253 N Green,Greensboro,NC,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+134,Sand Bar,,19 S 2nd St,Wilmington,NC,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+133,Andrew Johnson Hotel Bar,,100 W Martin,Raleigh,NC,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+138,Wagon Wheel,,336 King St,Charleston,SC,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+139,The Lounge,,1103 Lady St,Columbia,SC,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+140,Horseshoe Lounge,,443 E Stone,Greenville,SC,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+142,Rathskeller,,618 Cherry,Chattanooga,TN,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+141,Pizza Palace,,3201 Brainerd Rd,Chattanooga,TN,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+145,Andrew Johnson Hotel Bar,,918 Gay St SW,Knoxville,TN,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+146,Brownie's Grill,,2218 Cumberland Ave,Knoxville,TN,,Restaurant,,,8/22/2019 2:07am,9/7/2019 11:31am,1968
+147,Five-O-Nine Club,,509 Church Ave SW,Knoxville,TN,,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+150,Frank's Shobar,,223 S Bellevue Blvd,Memphis,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+149,Carnival Room,Shearton-Peabody Hotel,149 Union Ave,Memphis,TN,"(M) - Mixed Crowds,(PE) - Pretty elegant - jacket & tie may be required","Bars/Clubs,Hotels",,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+156,Jungle Lounge,(best after midnight),715 Commerce,Nashville,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+153,Chez Paree,,214 N 4th,Nashville,TN,"(M) - Mixed Crowds,(D) - Dancing",Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+154,Hi Hat,,604 Commerce,Nashville,TN,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+155,Juanita's,,713 Commerce,Nashville,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+159,Cabaret ,(Collegiate),3010 Guadalupe,Austin,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+157,Ali Bye,,105 E 6th,Amarillo,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+160,Freddie's,,509 E 6th,Austin,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+164,Ronnie's,,219 N Frazier,Conroe,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+161,Manhattan,,911 Congress,Austin,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+162,Playboy Lounge,,485 Crockett,Beaumont,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+163,Maison Rouge,,1009 Santa Fe,Corpus Christi,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+167,Gene's Music Box,,307 S Akard,Dallas,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+171,Villa Fontana,,1315 Skiles,Dallas,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+172,Chris' Lounge,,112 W San Antonio,El Paso,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+170,Twenty One-Twenty One Club,,2121 Field,Dallas,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+174,Club Pigalle,,613 E San Antonio,El Paso,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+178,Lafitte,,1428 Strand,Galveston,TX,(D) - Dancing,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+181,Athena,,1803 Caroline at Jefferson,Houston,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+180,Zodiac Baths,,220 21st St,Galveston,TX,,Baths,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+182,Exile,,1011 Bell,Houston,TX,"""(SM) - Some motorcycle. Don't confuse with 'M-S,' which means mixed crowds - shows. "",(*) - Very popular",Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+185,Nugget,,2802 Austin,Houston,TX,"(S) - Shows - impersonators or record pantomime acts - often touristy,(*) - Very popular",Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+188,Red Room,(Very popular Friday evenings),612 Hadley,Houston,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+186,Pink Elephant,,1218 Leland,Houston,TX,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+190,Seagull,(formerly The Numbers),1003 California,Houston,TX,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+191,Showboat,,1104 Tuam,Houston,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+189,Round Table,,507 Westheimer,Houston,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+193,Surf,,2909 Main,Houston,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+194,Upstairs Club,(also coffee after  hours),2421 Times,Houston,TX,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+195,Regency III Country Club,off Hwy 59,15312 Lee Rd ,Humble,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+192,Stadium,,2417 Times,Houston,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+198,El Jardin,,106 Navarro,San Antonio,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+197,Cork Room,,411 N St. Mary's,San Antonio,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+196,Budda Lounge,,2315 San Pedro,San Antonio,TX,,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+199,Marine Room,,721 Navarro,San Antonio,TX,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/23/2019 1:36am,9/7/2019 11:23am,1968
+202,Top Hat,,210 S New Braunfels,San Antonio,TX,,Bars/Clubs,,,8/23/2019 1:49am,9/7/2019 11:23am,1968
+203,Blue Lounge,Piano bar,1016 Scott ,Wichita Falls,TX,(M) - Mixed Crowds,Bars/Clubs,,,8/23/2019 1:49am,9/7/2019 11:23am,1968
+204,Office,,800 Travis,Wichita Falls,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:56am,9/7/2019 11:23am,1968
+205,Continental,,111 W Tazewell,Norfolk,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:56am,9/7/2019 11:23am,1968
+206,Eton's,,938 Grace St. ,Richmond,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:56am,9/7/2019 11:23am,1968
+207,Rene's,,206 N 8th St,Richmond,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:58am,9/7/2019 11:23am,1968
+208,Craig's,,2101 Atlantic,Virginia Beach,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 1:58am,9/7/2019 11:23am,1968
+210,Sherwood's,,2105 Atlantic,Virginia Beach,VA,,Bars/Clubs,,,8/23/2019 1:58am,9/7/2019 11:23am,1968
+13,Nightingale,,24 S Garden Ave,Clearwater,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+16,Hollywood Bar,,415 Main St,Daytona Beach,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+18,Yum Yum Tree,Hwy 1 in Holly Hill,703 Ridgewood,Daytona Beach,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+19,Elbo Room,"(Collegiate) Ft. Lauderdale Beach
+",241 S Atalntic ,Ft. Lauderdale,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+21,The Saloon,,219 SW 1st Ave,Ft. Lauderdale,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+20,George's Ocean House,Ft. Lauderdale Beach,1609 N Atlantic ,Ft. Lauderdale,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+22,Zanzibar,,214 SW 1st ave,Ft. Lauderdale,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+24,Calypso Lounge,,150 San Carlos,Ft. Myers,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+25,Pub,"(Collegiate)
+",921 W University Ave,Gainesville,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+27,Top's Original Annex,,2027 Pembroke Rd,Hollywood,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+28,Bo's Reef,,3225 Frost,Jacksonville,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+31,Waldorf Lounge,,14 E Forsythe,Jacksonville,FL,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+30,Howard's,,238 W Adams,Jacksonville,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+32,Butch's,(Open Sunday),412 Boardwalk,Jacksonville Beach,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+34,Cecil's,,613 Duval,Key West,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+40,El Carol,,930 Le Joune Rd Coral Gables,Miami,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+37,Carnival,,137 NE 3rd St,Miami,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+35,Cactus Lounge,,2041 NE Biscayne,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+36,Candleight,"(Coconut Grove)
+",3131 Commodore Plaza,Miami,FL,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+39,Deluxe,,2800 NW 27th St,Miami,FL,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+43,Hamlet,(Collegiate),3416 Main Hwy Coconut Grove,Miami,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+44,Le Moon Villas,,2661 Bayshore Dr Coconut Grove,Miami,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+42,Google's,,5832 NW 27th St,Miami,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+41,Fox Hole,,2000 NE 2nd Ave,Miami,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+48,Nook Beer Bar,,255 Minorca Coral Gables,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+45,Leprechaun,,7305 Bird Rd West Miami,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+46,Little Spot,(above Big Spot--use side street private entrance),3604 SW 8th St,Miami,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+47,Mermaid Room,(Behind Vic's-use side street private entrance),101 NE 2nd Ave,Miami,FL,"(*) - Very popular,(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+49,Pagoda Room,(Back room at the Big Spot),3604 SW 8th St,Miami,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+54,Basin St,,1610 Alton Rd,Miami Beach,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+53,Barbary Coast,,401 Ocean Dr,Miami Beach,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+52,Alley,(behind the South Wind--enter via parking lot in rear),1685 Alton Rd,Miami Beach,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+50,Studio,,3071 SW 32nd Ave,Miami,FL,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+56,Cook's Bath House,,475 Ocean Dr,Miami Beach,FL,,Baths,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+60,Cactus Room,,60 N Orange,Orlando,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+59,Pin Up,,2228 Park Av,Miami Beach,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+55,Casbar,,1390 Ocean Dr,Miami Beach,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+58,Mayflower Lounge,(go thru bar to Billy Lee's Back Room),1716 Alton Rd,Miami Beach,FL,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+57,Frenchie's,,1614 Alton Rd,Miami Beach,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+61,Lido,,420 Ocean Ave,Palm Beach,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+66,Sherwood,,7 1st St N,St. Petersburg,FL,"(PE) - Pretty elegant - jacket & tie may be required,(*) - Very popular",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+68,Elbo Room,,5 Blvd of Presidents,Sarasota,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+62,San Carlos Hotel Bar,,1 Pelfox,Pensacola,FL,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+64,Davey Jones' Locker,(Impersonator & tourists. Winter only) St. Petersburg Beach,7212 Gulf Blvd,St. Petersburg,FL,(S) - Shows - impersonators or record pantomime acts - often touristy,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+63,Trader Jon's,,511 S Pelfox,Pensacola,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+67,Trade Winds,,233 Central Ave,St. Petersburg,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+65,Patio,,1637 4th St S,St. Petersburg,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+71,Cypress Lounge,Floridian Hotel,204 N Monroe,Tallahassee,FL,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+72,Le Roc Bar,,415 N Monroe,Tallahassee,FL,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+74,Carousel,,1806 W Platt St,Tampa,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+75,Jimmy White's,,1725 W Kennedy,Tampa,FL,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+70,Northside Tavern,,2805 N Tamiami,Sarasota,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+78,Turf,,221 Datura,West Palm Beach,FL,,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+77,Kikiki,,723 Morgan,Tampa,FL,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+122,Mirror Room,,710 Central Beach Rd,Biloxi,MS,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+121,Koko Beach Motel,,W Beach Hwy,Biloxi,MS,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+124,Hitching Post,,1905 W Northside Dr,Jackson,MS,(*) - Very popular,Bars/Clubs,,,8/22/2019 2:07am,9/7/2019 11:23am,1968
+98,Downtowner,(back room best),320 W Chestnut,Louisville,KY,(*) - Very popular,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
 95,Jochebo's,"(Weekends-downstairs)
-",3 L Hwy,Covington,KY,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-96,Gilded Cage,,24 E Main St,Lexington,KY,(M) - Mixed Crowds,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-97,Dinty Moore's,,427 Broadway,Louisville,KY,"(M) - Mixed Crowds,(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-98,Downtowner,(back room best),320 W Chestnut,Louisville,KY,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-99,Den,,4065 Florida Ave,Baton Rouge,LA,(*) - Very popular,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-100,Mirror Room,,3rd & Florida,Baton Rouge,LA,,Bars/Clubs,,,8/19/2019 12:23am,8/22/2019 4:16am
-101,Le Cabrie,,206 E Vermilion,Lafayette,LA,,Bars/Clubs,,,8/19/2019 12:26am,8/22/2019 4:16am
-102,Ivy Lounge,,316 Pujo,Lake Charles,LA,,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:16am
-103,My-O-My Club,(Touristy),1744 Lake Ave,Metarie,LA,(S) - Shows - impersonators or record pantomime acts - often touristy,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:16am
-104,Canal Baths,,512 Gravier,New Orleans,LA,,Baths,,,8/22/2019 4:07am,8/22/2019 4:14am
-105,Coffee Pot,,714 Peter St,New Orleans,LA,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/22/2019 4:07am,8/22/2019 4:14am
-106,Fatted Calf,,727 St Peter St,New Orleans,LA,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",(M) - Mixed Crowds",Restaurant,,,8/22/2019 4:07am,8/22/2019 4:14am
-107,Finale ,(Restaurant upstairs),1041 Royal,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:16am
-108,Galley House,,542 Chartres St,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-109,Goldern Lantern,,1239 Royal St,New Orleans,LA,,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-110,Kookie's,,1210 N Rampart,New Orleans,LA,"""(G) - Girls, but rarely exclusively""",Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-111,Lafitte's in Exile,,901 Bourbon St,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-112,Lafitte's Annex,,730 Burgundy St,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-113,Mr D's,,600 Dauphine,New Orleans,LA,"""(G) - Girls, but rarely exclusively"",(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-114,Society Page,,819 St. Louis St,New Orleans,LA,"(RT) - 'Raunchy types' - downtown type places - often hustlers,(*) - Very popular",Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-115,Speakeasy,,834 N Rampart St,New Orleans,LA,"(M) - Mixed Crowds,(S) - Shows - impersonators or record pantomime acts - often touristy",Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-116,Wanda's,,608 Iberville,New Orleans,LA,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-117,Elbow Room,,708 Louisiana Ave,Shreveport,LA,,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-118,Gay 90's,,716 Louisiana Ave,Shreveport,LA,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-119,Korner,,800 Louisiana Ave,Shreveport,LA,,Bars/Clubs,,,8/22/2019 4:07am,8/22/2019 4:17am
-120,Koko's,,W Beach Hwy,Biloxi,MS,(*) - Very popular,Bars/Clubs,checked,,8/22/2019 4:07am,8/23/2019 3:20am
-121,Koko Beach Motel,,W Beach Hwy,Biloxi,MS,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/22/2019 4:07am,8/22/2019 4:19am
-122,Mirror Room,,710 Central Beach Rd,Biloxi,MS,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:20am
-123,Tap Room,,on Broadway,Hattiesburg,MS,(M) - Mixed Crowds,Bars/Clubs,checked,,8/22/2019 4:07am,8/23/2019 3:20am
-124,Hitching Post,,1905 W Northside Dr,Jackson,MS,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:20am
-125,Robert E. Lee Hotel Bar,,N Lamar St,Jackson,MS,(M) - Mixed Crowds,"Bars/Clubs,Hotels",checked,,8/22/2019 4:07am,8/28/2019 2:44pm
-126,Tempo,(Collegiate),159 B E 4th St,Chapel Hill,NC,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:20am
-127,Blue Note,,1421 E Morehead,Charlotte,NC,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-128,Hoot Mon,,1427 E 4th St,Charlotte,NC,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/22/2019 4:07am,8/23/2019 3:21am
-129,Sheraton-Barringer Hotel Bar,,426 N Tyson,Charlotte,NC,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-130,Duke's Tavern,Jack Tar Hotel,Corcoran & Chapel,Durham,NC,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-131,Cadillac Lounge,,334 Gillespie,Fayetteville,NC,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-132,General Greene Bar,,253 N Green,Greensboro,NC,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-133,Andrew Johnson Hotel Bar,,100 W Martin,Raleigh,NC,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-134,Sand Bar,,19 S 2nd St,Wilmington,NC,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-135,Wits End ,,Wrightsvilel Beach,Wilmington,NC,,Bars/Clubs,checked,,8/22/2019 4:07am,8/23/2019 3:33am
-136,Forty-Nine Club,(Inquire locally),,Charleston,SC,,Bars/Clubs,checked,,8/22/2019 4:07am,8/23/2019 3:33am
-137,New Yorker,,King St near Market,Charleston,SC,(*) - Very popular,Bars/Clubs,checked,,8/22/2019 4:07am,8/23/2019 3:33am
-138,Wagon Wheel,,336 King St,Charleston,SC,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-139,The Lounge,,1103 Lady St,Columbia,SC,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-140,Horseshoe Lounge,,443 E Stone,Greenville,SC,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-141,Pizza Palace,,3201 Brainerd Rd,Chattanooga,TN,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-142,Rathskeller,,618 Cherry,Chattanooga,TN,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-143,Read House Tavern,,9th & Broad,Chattanooga,TN,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:33am
-144,New Southern Hotel Bar,,Baltimore & Liberty,Jackson,TN,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-145,Andrew Johnson Hotel Bar,,918 Gay St SW,Knoxville,TN,(M) - Mixed Crowds,"Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-146,Brownie's Grill,,2218 Cumberland Ave,Knoxville,TN,,Restaurant,,,8/22/2019 4:07am,8/23/2019 3:33am
-147,Five-O-Nine Club,,509 Church Ave SW,Knoxville,TN,,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:34am
-148,Ambassador ,"(20 miles north of Memphis near Millington-you must have member introduce you. On Hwy 51)
-",,Memphis,TN,"(D) - Dancing,(P) - Private club - Inquire locally to admission,(*) - Very popular",Bars/Clubs,checked,,8/22/2019 4:07am,8/23/2019 3:38am
-149,Carnival Room,Shearton-Peabody Hotel,149 Union Ave,Memphis,TN,"(M) - Mixed Crowds,(PE) - Pretty elegant - jacket & tie may be required","Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-150,Frank's Shobar,,223 S Bellevue Blvd,Memphis,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:38am
-151,French Quarter,"(Weekends, after hours) (Basement)",Union Ave & Front St,Memphis,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:38am
-152,Oasis,Tennessee Hotel,3rd & Union,Memphis,TN,"(M) - Mixed Crowds,(RT) - 'Raunchy types' - downtown type places - often hustlers","Bars/Clubs,Hotels",,,8/22/2019 4:07am,8/28/2019 2:44pm
-153,Chez Paree,,214 N 4th,Nashville,TN,"(M) - Mixed Crowds,(D) - Dancing",Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:44am
-154,Hi Hat,,604 Commerce,Nashville,TN,(M) - Mixed Crowds,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:44am
-155,Juanita's,,713 Commerce,Nashville,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:44am
-156,Jungle Lounge,(best after midnight),715 Commerce,Nashville,TN,(*) - Very popular,Bars/Clubs,,,8/22/2019 4:07am,8/23/2019 3:44am
-157,Ali Bye,,105 E 6th,Amarillo,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-158,Back Door Lounge,,E 10th ,Amarillo,TX,(*) - Very popular,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:44am
-159,Cabaret ,(Collegiate),3010 Guadalupe,Austin,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-160,Freddie's,,509 E 6th,Austin,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-161,Manhattan,,911 Congress,Austin,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-162,Playboy Lounge,,485 Crockett,Beaumont,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-163,Maison Rouge,,1009 Santa Fe,Corpus Christi,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-164,Ronnie's,,219 N Frazier,Conroe,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-165,Atlantis,,Field St & Cedar Springs,Dallas,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-166,Gallery,,Live Oak,Dallas,TX,,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:44am
-167,Gene's Music Box,,307 S Akard,Dallas,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-168,Ken's,(After hours),E Lemmon & McKinley,Dallas,TX,"""(C) - Coffee, soft drinks and sometimes snacks""",Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-169,Tool Box,,Bryan & Harwood,Dallas,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-170,Twenty One-Twenty One Club,,2121 Field,Dallas,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-171,Villa Fontana,,1315 Skiles,Dallas,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:44am
-172,Chris' Lounge,,112 W San Antonio,El Paso,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:46am
-173,Circus Room,(behind Plaza Hotel),,El Paso,TX,,Bars/Clubs,checked,,8/23/2019 3:36am,8/28/2019 2:44pm
-174,Club Pigalle,,613 E San Antonio,El Paso,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:48am
-175,Le Milord,,Kansas St,El Paso,TX,,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:48am
-176,Noa Noa Club,"(after midnight when Texas bars close) Juarez, Mexico",,El Paso,TX,,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:48am
-177,Kinney's ,,600 blk Main St,Ft. Worth,TX,,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:48am
-178,Lafitte,,1428 Strand,Galveston,TX,(D) - Dancing,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:48am
-179,Surf,,300 blk on 21st St,Galveston,TX,(*) - Very popular,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:48am
-180,Zodiac Baths,,220 21st St,Galveston,TX,,Baths,,,8/23/2019 3:36am,8/23/2019 3:48am
-181,Athena,,1803 Caroline at Jefferson,Houston,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-182,Exile,,1011 Bell,Houston,TX,"""(SM) - Some motorcycle. Don't confuse with 'M-S,' which means mixed crowds - shows. "",(*) - Very popular",Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-183,La Boheme,,on Westheimer,Houston,TX,,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:56am
-184,New Yorker,,Westheimer near Montrose,Houston,TX,"(D) - Dancing,(P) - Private club - Inquire locally to admission",Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:56am
-185,Nugget,,2802 Austin,Houston,TX,"(S) - Shows - impersonators or record pantomime acts - often touristy,(*) - Very popular",Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-186,Pink Elephant,,1218 Leland,Houston,TX,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-187,Plantation Club,,on W Gray,Houston,TX,(D) - Dancing,Bars/Clubs,checked,,8/23/2019 3:36am,8/23/2019 3:56am
-188,Red Room,(Very popular Friday evenings),612 Hadley,Houston,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-189,Round Table,,507 Westheimer,Houston,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-190,Seagull,(formerly The Numbers),1003 California,Houston,TX,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,8/23/2019 3:36am,8/23/2019 3:55am
-191,Showboat,,1104 Tuam,Houston,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-192,Stadium,,2417 Times,Houston,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-193,Surf,,2909 Main,Houston,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-194,Upstairs Club,(also coffee after  hours),2421 Times,Houston,TX,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-195,Regency III Country Club,off Hwy 59,15312 Lee Rd ,Humble,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 3:56am
-196,Budda Lounge,,2315 San Pedro,San Antonio,TX,,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 4:01am
-197,Cork Room,,411 N St. Mary's,San Antonio,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 4:01am
-198,El Jardin,,106 Navarro,San Antonio,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 4:01am
-199,Marine Room,,721 Navarro,San Antonio,TX,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,,,8/23/2019 3:36am,8/23/2019 4:01am
-200,Paul's Grove,(The 'Country' W-F-S-S only) about 25 miles NW near Helotes,,San Antonio,TX,"(D) - Dancing,(P) - Private club - Inquire locally to admission",Bars/Clubs,checked,,8/23/2019 3:49am,8/23/2019 4:01am
-201,Ponderosa,,W on Sterling Hwy,San Antonio,TX,(RT) - 'Raunchy types' - downtown type places - often hustlers,Bars/Clubs,checked,,8/23/2019 3:49am,8/23/2019 4:01am
-202,Top Hat,,210 S New Braunfels,San Antonio,TX,,Bars/Clubs,,,8/23/2019 3:49am,8/23/2019 4:01am
-203,Blue Lounge,Piano bar,1016 Scott ,Wichita Falls,TX,(M) - Mixed Crowds,Bars/Clubs,,,8/23/2019 3:49am,8/23/2019 4:01am
-204,Office,,800 Travis,Wichita Falls,TX,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:56am,8/23/2019 4:01am
-205,Continental,,111 W Tazewell,Norfolk,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:56am,8/23/2019 4:01am
-206,Eton's,,938 Grace St. ,Richmond,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:56am,8/23/2019 4:01am
-207,Rene's,,206 N 8th St,Richmond,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:58am,8/23/2019 4:01am
-208,Craig's,,2101 Atlantic,Virginia Beach,VA,(*) - Very popular,Bars/Clubs,,,8/23/2019 3:58am,8/23/2019 4:01am
-209,Hotel Waverly,,22nd & Ocean,Virginia Beach,VA,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,8/23/2019 3:58am,8/23/2019 4:01am
-210,Sherwood's,,2105 Atlantic,Virginia Beach,VA,,Bars/Clubs,,,8/23/2019 3:58am,8/23/2019 4:01am
+",3 L Hwy,Covington,KY,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+96,Gilded Cage,,24 E Main St,Lexington,KY,(M) - Mixed Crowds,Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+97,Dinty Moore's,,427 Broadway,Louisville,KY,"(M) - Mixed Crowds,(RT) - 'Raunchy types' - downtown type places - often hustlers",Bars/Clubs,,,8/18/2019 10:23pm,9/7/2019 11:23am,1968
+10,Mollie's,,360 Central Ave,Hot Springs,AR,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",(M) - Mixed Crowds",Restaurant,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968
+11,Peacock Lounge,,220 Central Ave,Hot Springs,AR,,Bars/Clubs,,,8/18/2019 10:22pm,9/7/2019 11:23am,1968

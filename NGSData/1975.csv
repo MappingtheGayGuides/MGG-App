@@ -1,0 +1,418 @@
+﻿ID,title,description,streetaddress,city,state,amenityfeatures,type,unclearaddress,notes,dateadded,lastmodified
+1,Pasquale's Pizza,(no booze),174 E. Magnolia,Auburn,AL,"(M) - Mixed or partially straight,""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Restaurant,,,11/11/2019 7:27am,11/11/2019 7:28am
+2,Pete's,,816 Opalika Road,Auburn,AL,(M) - Mixed or partially straight,Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:36am
+3,Chances R Lounge,,208 N. 23rd St.,Birmingham,AL,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:36am
+4,Gizmo,,909 S. 22nd St.,Birmingham,AL,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:36am
+5,Golden Torch,(may be closing),"1915 5th Ave, N.",Birmingham,AL,"""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",""(G) - Girls, but seldom exclusively"",(B) - Blacks frequent,(D) - Dancing,(*) - Very popular","Restaurant,Bars/Clubs",,,11/11/2019 7:28am,11/11/2019 7:36am
+6,Mammy's Pancake House,(Mrs.Todd's),2151 Highland Ave S.,Birmingham,AL,"(M) - Mixed or partially straight,""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,11/11/2019 7:28am,11/11/2019 7:36am
+7,Matador,,2018 N. 22nd St.,Birmingham,AL,(D) - Dancing,Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:36am
+8,Odds 'n' Ends,(some G),1331 3rd Ave N.,Birmingham,AL,"(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:36am
+12,Why Not Eat Here Cafe,,220 Moulton St.,Decatur,AL,(M) - Mixed or partially straight,Restaurant,,,11/11/2019 7:28am,11/11/2019 7:36am
+13,Upstairs Bar,Heart of Dothan Motel,314 N. Foster,Dothan,AL,(M) - Mixed or partially straight,"Hotels,Bars/Clubs",,,11/11/2019 7:28am,11/11/2019 7:36am
+14,Pitt Grill ,(Late),400 E. Tennessee,Florence,AL,"(M) - Mixed or partially straight,""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,11/11/2019 7:28am,11/11/2019 7:35am
+16,Escape Lounge,(Unfriendly management),1313 Memorial Parkway,Huntsville,AL,(M) - Mixed or partially straight,Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:35am
+17,Jet Star,,3413 S. Memorial Parkway,Huntsville,AL,(*) - Very popular,Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:35am
+19,Goldenrod Social Club,(Weekends)*,155 Government St.,Mobile,AL,"(YC) - Young and/or collegiate types,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:41am
+20,Princess House Lounge,"(some (RT)(B)(G)(S))
+",254 Government St.,Mobile,AL,"(M) - Mixed or partially straight,(*) - Very popular,(D) - Dancing,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(B) - Blacks frequent,""(G) - Girls, but seldom exclusively"",(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:41am
+22,Exchange Hotel Bar,,5 Commerce St.,Montgomery,AL,(M) - Mixed or partially straight,"Bars/Clubs,Hotels",,,11/11/2019 7:28am,11/11/2019 8:28am
+24,Chucker's,,2121 6th St.,Tuscaloosa,AL,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 7:41am
+26,Stafford Hotel Bar,(downstairs),3209 9th St.,Tuscaloosa,AL,(M) - Mixed or partially straight,"Hotels,Bars/Clubs",,,11/11/2019 7:28am,11/11/2019 7:41am
+28,George's Lounge,,519 W. Dickson,Fayetteville,AR,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:28am,11/18/2019 8:10am
+31,Mollie's,,360 Central Ave,Hot Springs,AR,"(M) - Mixed or partially straight,""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. """,Bars/Clubs,,,11/11/2019 7:28am,11/18/2019 8:10am
+32,Peacock Lounge,,220 Central Ave,Hot Springs,AR,,Bars/Clubs,,,11/11/2019 7:28am,11/18/2019 8:10am
+33,Royal Lion Club,(Some G) (Open Th-F-S only),236 Quachita Ave,Hot Springs,AR,"(P) - Private club - Inquire locally to admission,(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,11/11/2019 7:28am,11/18/2019 8:10am
+39,Rosebud,,1609 W. Howard Ave.,Biloxi,MS,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 8:03am
+44,Side Door,(some G) (was closed but reopening with a new name),4312 Hewes Ave.,Gulfport,MS,,Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 8:03am
+45,Holiday Inn Bar,,900 Broadway Dr.,Hattiesburg,MS,(M) - Mixed or partially straight,"Hotels,Bars/Clubs",,,11/11/2019 7:28am,11/11/2019 7:59am
+46,Downtowner,,225 E. Capitol,Jackson,MS,"(M) - Mixed or partially straight,(HOT) - Hot means dangerous . . . fuzz . . . not 'in' as in the current vernacular","Hotels,Bars/Clubs",,,11/11/2019 7:28am,11/11/2019 8:03am
+47,Mae's Cabaret,"(Open 8pm, Thur-Fri-Sat only)",4714 Hw. 49 N.,Jackson,MS,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(YC) - Young and/or collegiate types,(BYOB) - Bring your own bottle,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 8:04am
+48,Raincheck Lounge,"(some G) (open again - regaining popularity. Opens 8pm, closed mondays)",1905 W. Northside Dr.,Jackson,MS,"(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 8:04am
+50,Holiday Inn Bar,,400 N. Lamar,Oxford,MS,(M) - Mixed or partially straight,"Hotels,Bars/Clubs",,,11/11/2019 7:28am,11/11/2019 8:01am
+51,Castaways,,310 Ingalles Ave.,Pascagoula,MS,(M) - Mixed or partially straight,Bars/Clubs,,,11/11/2019 7:28am,11/11/2019 8:04am
+56,Downtowner Motel Bar,,1313 Walnut St.,Vicksberg,MS,"(M) - Mixed or partially straight,(*) - Very popular","Hotels,Bars/Clubs",,,11/11/2019 7:54am,11/11/2019 8:02am
+57,B.J.'s,,80 Asheland Ave.,Asheville,NC,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:09am
+60,Athens,,101 N. Independence,Charlotte,NC,"(M) - Mixed or partially straight,""(R) - Restaurant, usually serving dinner. A '*' after this symbol does not necessarily indicate quality of food served, but popularity of the place. "",""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,11/11/2019 7:54am,11/11/2019 8:19am
+61,Club Charlotte Baths,,1013 W. Morehead,Charlotte,NC,(*) - Very popular,Baths,,,11/11/2019 7:54am,11/11/2019 8:19am
+62,Honey's Brass Rail,,105 W. Moreland,Charlotte,NC,(*) - Very popular,Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+63,Krusba ,(sign says 825),825 W. Morehead,Charlotte,NC,(D) - Dancing,Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+64,Oleen's Lounge,,1831 South Blvd,Charlotte,NC,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+65,Scorpio Lounge,(some G),4316 S. Tryon St.,Charlotte,NC,"(YC) - Young and/or collegiate types,(D) - Dancing,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+72,Hi Hat Lounge,,446 E. Russell St.,Fayetteville,NC,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+73,Tap Room,Prince Charles Hotel,430 Hay St.,Fayetteville,NC,"(M) - Mixed or partially straight,(*) - Very popular","Hotels,Bars/Clubs",,,11/11/2019 7:54am,11/11/2019 8:19am
+76,General Greene Bar,,253 N. Greene St.,Greensboro,NC,(M) - Mixed or partially straight,Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+78,Pied Piper Lounge,(Lawndale Shopping Center)(some G),2132 Lawndale Dr.,Greensboro,NC,"(M) - Mixed or partially straight,(D) - Dancing,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,11/11/2019 7:54am,11/11/2019 8:19am
+79,Renaissance,,2130 Lawndale Dr.,Greensboro,NC,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,11/11/2019 8:07am,11/11/2019 8:19am
+81,Parker's News Stand,(Books),117 E. Green St.,High Point,NC,,Book Store,,,11/11/2019 8:07am,11/11/2019 8:08am
+82,Mouse Trap,,1622 Glenwood Ave.,Raleigh,NC,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,11/11/2019 8:07am,11/11/2019 8:19am
+84,Club One-Ten,,110 S. Front St.,Wilmington,NC,"(M) - Mixed or partially straight,(*) - Very popular",Bars/Clubs,,,11/11/2019 8:07am,11/11/2019 8:19am
+88,Basin Street South,(Only liquor bar),16 Hayne St.,Charleston,SC,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,11/11/2019 8:07am,11/11/2019 8:23am
+95,Wagon Wheel,,336 King St.,Charleston,SC,(M) - Mixed or partially straight,Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:24am
+98,Campground,(some G),2717 Two Notch Rd,Columbia,SC,"(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:27am
+99,Fortress,,5729 Shakespeare Rd.,Columbia,SC,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:27am
+100,H& M,"(He & Me) (Liquor bar open 9pm - 2am)
+",2300 Two Notch Rd.,Columbia,SC,"(P) - Private club - Inquire locally to admission,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:27am
+101,Lounge,,1103 Lady St,Columbia,SC,,Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:27am
+102,O'Gray's Lounge,(Liquor),1536 Sumter St.,Columbia,SC,(*) - Very popular,Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:27am
+103,Trinking Club,,1232 Assembly St.,Columbia,SC,,Bars/Clubs,,,11/11/2019 8:19am,11/11/2019 8:27am
+138,M.C.C. ,,,Austin,TX,,Church,,revise address pg 138,12/17/2019 9:52am,12/17/2019 9:52am
+139,Ronnie's Bamboo Lounge,,219 N. Frazier,Conroe,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+140,Commerce St. News,,1513 Commerce St.,Dallas,TX,,Book Store,,,12/17/2019 9:52am,12/17/2019 9:52am
+141,M.C.C. First Unitarian Church,,4015 Normandie St.,Dallas,TX,,Church,,,12/17/2019 9:52am,12/17/2019 9:52am
+142,Studio 9 Theatre,,4817 Bryan,Dallas,TX,,Theatre,,,12/17/2019 9:52am,12/17/2019 9:52am
+143,T.J.'s,,3307 McKinney,Dallas,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+151,Banos Jordon,baths,557 Delgallado (Ciudad Juarez),El Paso,TX,,Baths,,Ciudad Juarez where to put,12/17/2019 9:52am,12/17/2019 9:52am
+152,Banos Roma,baths,881 Ignacio Mejia (Ciudad Juarez),El Paso,TX,,Baths,,Ciudad Juarez where to put,12/17/2019 9:52am,12/17/2019 9:52am
+153,Club Olympico,,210 Avenida Lerdo (Ciudad Juarez),El Paso,TX,,Bars/Clubs,,Ciudad Juarez where to put,12/17/2019 9:52am,12/17/2019 9:52am
+154,Club Pigalle,,411 E. Franklin,El Paso,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+156,Le Milord,,606 Magoffin,El Paso,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+160,M.C.C.,,2800 Purington,Ft. Worth,TX,,Church,,,12/17/2019 9:52am,12/17/2019 9:52am
+161,Lafitte Hotel,"Strictly a summer & weekend resort, men only, above Robert's Lafitte",409 Rosenberg,Galveston,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+162,Adam I Theatre,,4816 Main,Houston,TX,,Theatre,,,12/17/2019 9:52am,12/17/2019 9:52am
+163,Annex,,1313 Westheimer,Houston,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+164,Big City News,books,1414 Milam,Houston,TX,,Book Store,,,12/17/2019 9:52am,12/17/2019 9:52am
+165,Detour,,1504 Westheimer,Houston,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+166,Lena's Lounge,,2923 Main,Houston,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+167,Midtown Lounge,,2969 S. Main,Houston,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+168,Mini Park Theatre,,2907 S. Main,Houston,TX,,Theatre,,,12/17/2019 9:52am,12/17/2019 9:52am
+169,Mr. Frizby's Baths,,3401 Milam,Houston,TX,,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+170,Numbers,,1003 California,Houston,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+174,Friendly Lounge,,106 East Hwy.,McAllen,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+176,Cork Room,"Some Latins, closes 12p.m.",411 N. St. Mary's,San Antonio,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+177,Desert Fox,Latins,309 W. Market St.,San Antonio,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+178,Globe News Stand,,204 E. Houston,San Antonio,TX,,Book Store,,,12/17/2019 9:52am,12/17/2019 9:52am
+179,Mary's Lounge,,460 S. St. Mary's,San Antonio,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+180,Switchboard ,"San Antonio Free Clinic, (7 - 11p.m.) 733-7300",1136 W. Woodlawn,San Antonio,TX,,Business,,clarify title,12/17/2019 9:52am,12/17/2019 9:52am
+183,Louise's ,,117 1/2 S. Main,Victoria,TX,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+187,Atlanta Stag Shop,books,85 Poplar St.,Atlanta,GA,,Book Store,,,12/17/2019 9:52am,12/17/2019 9:52am
+188,Gay Paree Cinema,,90 Walton St. N.W.,Atlanta,GA,,Theatre,,,12/17/2019 9:52am,12/17/2019 9:52am
+192,Windsor Hotel Steam Baths,Closes 11p.m.,926 S. 5th St.,Louisville,KY,,"Baths,Hotels",,,12/17/2019 9:52am,12/17/2019 9:52am
+193,Long Branch Cafe,,124 E. Market,Johnson City,TN,,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+194,M.C.C. ,,1502 Edgehill Ave,Nashville,TN,,Church,,,12/17/2019 9:52am,12/17/2019 9:52am
+195,Lakeway Package Store,liquors,1410 E. Wood St.,Paris,TN,,Business,,,12/17/2019 9:52am,12/17/2019 9:52am
+196,Off-Main Bar,,201 Liberty Ave.,Beaumont,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+197,Bachelors Quarter Baths,'wild' Tues. nights,3114 Live Oak,Dallas,TX,(*) - Very popular,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+198,Other Place,,3026 W. Lancaster,Ft. Worth,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+199,Gym Baths,Strictly a summer & weekend resort,220 - 23rd St.,Galveston,TX,(*) - Very popular,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+200,Briar Patch,,2294 W. Holcombe Blvd.,Houston,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+201,Club Houston Baths,,2205 Fannin,Houston,TX,(*) - Very popular,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+202,Red Room,getting better again,612 Hadley,Houston,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+203,Round Table,best Sunday afternoons,507 Westheimer,Houston,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+204,Duffy's Tavern,,5 S. 16th St.,McAllen,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+205,Skylight Bar,,415 N. Jackson,Odessa,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+206,El Jardin,"Patio in back, good Sunday afternoons",106 Navarro,San Antonio,TX,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+207,Club South Baths,,"76 - 4th St., N.W.",Atlanta,GA,(*) - Very popular,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+209,Play Pen,in alley,619 Ellis St.,Augusta,GA,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+210,Bayshore Steam Baths,"Sun. from 1p.m., closes 11p.m. daily",403 E. Bay at Habersham,Savannah,GA,(*) - Very popular,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+211,Planters Tavern,"best late - downstairs, below Pink House Restaurant",23 Abercorn St.,Savannah,GA,(*) - Very popular,Bars/Clubs,,location?,12/17/2019 9:52am,12/17/2019 9:52am
+212,Bonne Santé Steam Baths,,959 Baxter Ave.,Louisville,KY,(*) - Very popular,Baths,,,12/17/2019 9:52am,12/17/2019 9:52am
+213,Cross Keys,,1409 Market St.,Chattanooga,TN,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+214,Powder Puff,,919 Georgia Ave.,Chattanooga,TN,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+215,Juniata's,,713 Commerce St.,Nashville,TN,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+216,Club III,"this seasons 'in' place, disco",1139 W. Peachtree St. N.W.,Atlanta,GA,"(*) - Very popular,(D) - Dancing,(YC) - Young and/or collegiate types,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(E) - Entertainment,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,double check,12/17/2019 9:52am,12/17/2019 9:52am
+217,Roaring Sixties,,2305 Shepherd,Houston,TX,"(*) - Very popular,""(G) - Girls, but seldom exclusively"",(D) - Dancing",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+218,Bayou Landing,,2609 N. Pearl near Cedar Springs,Dallas,TX,"(*) - Very popular,(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+219,Six-Fifty-One Club,,651 S. Jennings,Ft. Worth,TX,"(*) - Very popular,(W) - Western or coyboy types",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+220,Gold Room,,2802 Austin,Houston,TX,"(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+221,After Dark,,1112 - 8th Ave.,Ft. Worth,TX,"(B) - Blacks frequent,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+222,My House,Upstairs too,774 W. Peachtree St.,Atlanta,GA,"(B) - Blacks frequent,(HIP) - Heads frequent,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+223,Blue Room,,86 Cain N.W.,Atlanta,GA,"(B) - Blacks frequent,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+224,Encore,,4516 McKinney,Dallas,TX,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+225,Victoria Lounge,Latins,1136 E. Durango,San Antonio,TX,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+226,Ann's Tic Toc ,,408 Broadway,Macon,GA,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+227,Act III,,3113 Live Oak,Dallas,TX,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+228,Fruit Jar,Strictly a summer & weekend resort,2214 Mechanic,Galveston,TX,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+229,Nine Hundred Club,good afternoons,900 Lovett,Houston,TX,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+230,Chances R,,1833 Peachtree Rd. N.E.,Atlanta,GA,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+231,We Three Lounge,,434 Cotton Ave.,Macon,GA,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+232,Chez Paris,,2207 Ayers,Corpus Christi,TX,"(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+233,Lamp Post,,2417 Times,Houston,TX,"(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+234,Apartment Lounge,No sign - looks like a private house - park in back & use rear door,"2828 Rio Grande, near  Guadalupe & 29th",Austin,TX,"(D) - Dancing,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,, revise address pg 138,12/17/2019 9:52am,12/17/2019 9:52am
+235,Hypothesis,Mixed drinks - $.50 adm.,2012 N. Broadway,San Antonio,TX,"(D) - Dancing,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+236,Basement,Opens 8p.m.,340 Bull at Charlton,Savannah,GA,"(D) - Dancing,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+237,Ron Sue's,was closed but probably re-opening ,3236 Mckinney,Dallas,TX,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+238,Spanish Harlem,"Latin, sign says 'Follies'",349 W. Josephine St. at St. Mary's,San Antonio,TX,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+239,Score One,Looks promising,1184 W. Peachtree St. N.W.,Atlanta,GA,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+240,Mrs. P's,Atlanta's oldest bar is now trying to feature (w) and (sm) on Tuesday nights.,Ponce de Leon Hotel 551 Ponce de Leon N.E.,Atlanta,GA,"(D) - Dancing,(W) - Western or coyboy types","Hotels,Bars/Clubs",,double check,12/17/2019 9:52am,12/17/2019 9:52am
+241,San Antonio Country,"5 room 'super-bar', disco, liquor too!",1122 N. St. Mary's,San Antonio,TX,"(D) - Dancing,(W) - Western or coyboy types,(YC) - Young and/or collegiate types,(HIP) - Heads frequent,(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,clarify about description,12/17/2019 9:52am,12/17/2019 9:52am
+242,Library,Disco,388 Woodland Ave.,Lexington,KY,"(D) - Dancing,(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+243,Mary Ellen's,,815 Fredericksburg Rd.,San Antonio,TX,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+244,B.J.'s,,1382 Poplar Ave.,Memphis,TN,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+245,Patch,,10 N. Cleveland,Memphis,TN,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+247,Highland Lounge,,3018 Monticello,Dallas,TX,"""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+248,Just Marion's & Lynn's,,817 Fairview,Houston,TX,"""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+249,Key Lounge,,5826 Conley,Houston,TX,"""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+251,T.J.'s ,Back Door,5563 Jacksboro Hwy.,Ft. Worth,TX,"""(G) - Girls, but seldom exclusively"",(D) - Dancing,(*) - Very popular",Bars/Clubs,,ask about description,12/17/2019 9:52am,12/17/2019 9:52am
+252,Ms. Garbo,"behind Baby Products Warehouse, A bar for women - don't pass it up!",2206 Cheshire Bridge Rd. N.E.,Atlanta,GA,"""(G) - Girls, but seldom exclusively"",(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+253,Dupree's Tavern,,716 Ponce de Leon,Atlanta,GA,"""(G) - Girls, but seldom exclusively"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+254,My Way,,523 E. 10th St.,Amarillo,TX,"""(G) - Girls, but seldom exclusively"",(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+255,Gay Silhouette,Latins,2522 Culebra,San Antonio,TX,"(HIP) - Heads frequent,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+256,Mark Twain,,4015 Lemmon at Throckmorton,Dallas,TX,"(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+257,Bayou Landing,,2020 Kipling,Houston,TX,"(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+261,Horseshoe,,2210 Abrams Road,Dallas,TX,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+262,Ali Baba,,823 Congress,Houston,TX,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+263,La Carafe,Old Market Square,813 Congress,Houston,TX,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+264,Prufrock's Tavern,,424 Westheimer,Houston,TX,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+268,Key to America Motel Bar,,230 N. Finley St.,Athens,GA,(M) - Mixed or partially straight,"Bars/Clubs,Hotels",,,12/17/2019 9:52am,12/17/2019 9:52am
+270,Rebel Room ,,1001 Greene,Columbus,GA,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+273,Kitten's Korner,,19 - 16th St.,Savannah Beach,GA,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+277,Shed,,453 Parkway,Gatlinburg,TN,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+279,Andrew Jackson Hotel Bar,,918 Gay St.,Knoxville,TN,(M) - Mixed or partially straight,"Bars/Clubs,Hotels",,,12/17/2019 9:52am,12/17/2019 9:52am
+280,Hi Hat Lounge,a few 'Midnight cowboys',604 Commerce St.,Nashville,TN,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+281,Castle,,3019 N. Haskell,Dallas,TX,"(M) - Mixed or partially straight,""(G) - Girls, but seldom exclusively"",(B) - Blacks frequent",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+282,Rio Lado Motel,,"1100 N. St, Mary's",San Antonio,TX,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:52am,12/17/2019 9:52am
+283,Ponce de Leon,,551 Ponce de Leon N.E.,Atlanta,GA,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:52am,12/17/2019 9:52am
+284,Woodrow Hotel,Scheduled to be torn down,1412 Fannin,Houston,TX,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""","Bars/Clubs,Hotels",,,12/17/2019 9:52am,12/17/2019 9:52am
+285,Les Quatre Saisons,Old Market Sq.,813 Congress,Houston,TX,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+286,Riviera Hyatt House Bar,,"1630 Peachtree St., N.W.",Atlanta,GA,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+288,Harborside,,401 E. River,Savannah,GA,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+289,Harrigan's ,,2202 Kirby,Houston,TX,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+290,Gene & Gabe's,,1578 Piedmont Ave. N.E.,Atlanta,GA,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+291,Pleasant Peasant,,555 Peachtree St. N.E.,Atlanta,GA,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+292,Michael One,,5015 Westheimer,Houston,TX,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+293,International House of Pancakes,,"1516 Piedmont Ave., N.E.",Atlanta,GA,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+296,Jerico Supper Club,,2202 W. 6th St.,Amarillo,TX,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+300,Jell's,,4018 Cedar Springs,Dallas,TX,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+301,Old South Pancake House,,1501 S. University,Ft. Worth,TX,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+303,Denny's,,621 Ponce de Leon & Piedmont Circle at Cheshire Bridge Rd.,Atlanta,GA,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+304,Johnnie Ganem's,,501 Habersham,Savannah,GA,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+305,Leo's ,,303 W. Chestnut,Louisville,KY,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+306,Western Pancake House,,912 E. Broadway,Louisville,KY,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+307,Campus Grill,"so., near Vanderbilt University ",416 - 21st Ave,Nashville,TN,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,ask ant location/description,12/17/2019 9:52am,12/17/2019 9:52am
+308,El Macho,Liquor,425 N. St. Mary's,San Antonio,TX,"(M) - Mixed or partially straight,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+309,Huddle,,219 W. Cumberland Ave.,Knoxville,TN,"(M) - Mixed or partially straight,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+310,Hideaway,,207 Gay St.,Knoxville,TN,"(M) - Mixed or partially straight,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+314,Ohman Inn,,2158 Union,Memphis,TN,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+315,Kampground,unisex,3029 S. Main,Ft. Worth,TX,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,(D) - Dancing",Bars/Clubs,,confirm unisex in description ,12/17/2019 9:52am,12/17/2019 9:52am
+316,Trio Coffee Shop,,3541 McKinney,Dallas,TX,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+317,Foxey's Hound,,575 New Circle Rd. N.E.,Lexington,KY,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+318,Steak 'n Egg,,1136 S. 4th St.,Louisville,KY,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+319,In Crowd,,1208 Lamar,Memphis,TN,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(E) - Entertainment,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+321,Queen Bee,,730 Logan,Louisville,KY,"(P) - Private club - Inquire locally to admission,(D) - Dancing,""(G) - Girls, but seldom exclusively"",(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+322,Closet,,112 Jackson,Memphis,TN,"(P) - Private club - Inquire locally to admission,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+323,Armory,,834 Juniper N.E. nr. 6th.,Atlanta,GA,"(PE) - Pretty elegant - jacket & tie may be required,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+324,Prince George Inn,,114 - 6th St. N.E.,Atlanta,GA,(PE) - Pretty elegant - jacket & tie may be required,Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+325,Entre Nuit,,265 S. Cleveland,Memphis,TN,,Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+326,Restaurant Montparnasse ,,224 E. Main,Lexington,KY,(*) - Very popular,Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+327,Plantation Coffee House,,3515 Westheimer,Houston,TX,"""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+328,Simpson's Diner,,1413 Main St.,Houston,TX,"""(C) - Coffee, soft drinks and sometimes snacks"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+329,Silver Dollar,,616 Westheimer,Houston,TX,"""(C) - Coffee, soft drinks and sometimes snacks"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(AH) - After Hours",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+330,El 86,,49 - 6th St. at Cypress,Atlanta,GA,(D) - Dancing,Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+331,Woody's ,Scheduled to open Spring '74,129 W. River St.,Savannah,GA,"(D) - Dancing,(E) - Entertainment",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+332,Back Office Lounge,,404 Main St.,Knoxville,TN,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+333,George's Theatre Lounge,,1786 Madison Ave.,Memphis,TN,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Restaurant,,,12/17/2019 9:52am,12/17/2019 9:52am
+334,Jungle Lounge,best late*,715 Commerce St.,Nashville,TN,"""(G) - Girls, but seldom exclusively"",(*) - Very popular",Restaurant,,ask about amenity/description,12/17/2019 9:52am,12/17/2019 9:52am
+336,Pink Elephant,,1218 Leland,Houston,TX,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+337,Surf,Closes 12 p.m.,2909 Main St.,Houston,TX,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+340,Frisco Lounge,,147 E. Travis,San Antonio,TX,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+341,Gene's Music Bar,weekends?,307 S. Akard,Dallas,TX,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Bars/Clubs,,ask question weekends,12/17/2019 9:52am,12/17/2019 9:52am
+342,Entre Nuit,,3116 Live Oak,Dallas,TX,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+343,El Safari,Latins,13194 S. Hwy. 81,San Antonio,TX,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(HIP) - Heads frequent,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+344,Julep Lounge,Maybe Closing,655 S. 4th St.,Louisville,KY,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+345,Cameo,,188 William at Cain N.W.,Atlanta,GA,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+347,Hi Kamp Klub,,3400 Travis,Houston,TX,"(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+348,Sun Dance Kid,,4025 Maple,Dallas,TX,"(W) - Western or coyboy types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+349,Ranch,"was (w), now closed, maybe re-opening as dance bar",4117 Maple,Dallas,TX,(W) - Western or coyboy types,Bars/Clubs,,ask question was w,12/17/2019 9:52am,12/17/2019 9:52am
+350,Rawhide,Looks promising,4016 White Settlement Rd.,Ft. Worth,TX,(W) - Western or coyboy types,Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+351,Ramrod,best afternoons,3224 N. Fitzhugh,Dallas,TX,"(W) - Western or coyboy types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+352,Swinger,,4006 Maple,Dallas,TX,"(W) - Western or coyboy types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+353,La Caja,,1104 Tuam,Houston,TX,"(W) - Western or coyboy types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+354,Mary's Bar,Best Sundays,1022 Westheimer,Houston,TX,"(W) - Western or coyboy types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+355,Onyx,good afternoons,341 W. Peachtree St. N.W.,Atlanta,GA,"(W) - Western or coyboy types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+356,Exile,open afternoons,1011 Bell St.,Houston,TX,"(W) - Western or coyboy types,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+357,Badlands Territory ,Five rooms with something for just about everyone ,116 E. Main St.,Louisville,KY,"(W) - Western or coyboy types,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+358,Galleon,,2720 Richmond ,Houston,TX,"(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+359,Living Room,,"841 Lane Allen, Lane Allen Plaza",Lexington,KY,"(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+360,Psyche Out,,76 N. Cleveland,Memphis,TN,"(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+361,Alexander's,,1219 W. 10th St.,Amarillo,TX,"(YC) - Young and/or collegiate types,(D) - Dancing",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+362,Wonders,May catch on,3207 Montrose,Houston,TX,"(YC) - Young and/or collegiate types,(D) - Dancing",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+363,The Box,,4950 Ayers,Corpus Christi,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+364,Kon Tiki,Strictly a summer & weekend resort,214 W. 23rd St.,Galveston,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+365,Farm House,,3535 Westheimer,Houston,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+366,Diane's Lounge,thru restaurant - lounge in rear,1801 - 19th,Lubbock,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular","Restaurant,Bars/Clubs",,,12/17/2019 9:52am,12/17/2019 9:52am
+368,Pearl Street Warehouse,"adm. charge, use side door on 18th",1720 Lavaca,Austin,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular,(P) - Private club - Inquire locally to admission",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+369,Cove,,"586 Worchester Dr., N.E.",Atlanta,GA,"(YC) - Young and/or collegiate types,(D) - Dancing,(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+371,Razzberries,,226 S. Tanchua,Corpus Christi,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+372,Robert's Lafitte,Strictly a summer & weekend resort,409 Rosenberg,Galveston,TX,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+373,Stardust Lounge,,60 - 5th St. at Spring,Atlanta,GA,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+374,Sweet Gum Head,weekends,2284 Cheshire Bridge Rd. N.E.,Atlanta,GA,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,clarify amenity,12/17/2019 9:52am,12/17/2019 9:52am
+375,Pet Shop,,207 E. San Antonio,El Paso,TX,"(YC) - Young and/or collegiate types,""(G) - Girls, but seldom exclusively"",(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:52am,12/17/2019 9:52am
+376,Grand Railroad Sandwich Station ,AH weekends - Syntopicon Restaurant,1724 N. Main,San Antonio,TX,"(YC) - Young and/or collegiate types,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,ask about AH weekends,12/17/2019 9:52am,12/17/2019 9:52am
+655,Everglades,,1931 S.E. 6th Ave.,Ft. Lauderdale,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+656,Tree Tavern ,,656 N. Andrews,Ft. Lauderdale,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+657,Zanzibar,,214 S.W. 1st Ave.,Ft. Lauderdale,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+658,Top's Annex,,2027 Pembroke Rd.,Hollywood,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+660,El Carol,(S.W. 42nd St.),930 Le Jeune Rd.,Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+661,Lepreuchan,(S.W. 40th St.),7305 Bird Dr.,Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+662,Fox Hole,,2000 N.E. 2nd Ave.,Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+663,Hialeah Bar,,210 N.E. 14th St.,Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+664,Midway,,2322 N.E. 2nd Ave.,Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+665,Odyssey,,"1717 N.W, 17th Ave,",Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+666,Sebastian's ,,"2490 S.W, 17th Ave. at U.S. Hwy. 1",Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+667,Red Rooser,,2404 N.E. 2nd Ave,Miami,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+668,Nite Owl,(Next to Pin Up),2228 Park Ave.,Miami Beach,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+669,Odds & Ends Tavern,(Only place open on Sundays),4910 Edgewater Dr.,Orlando,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+672,Turf South,,221 Datura,West Palm Beach,FL,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+673,Gertrude's ,(Latins),125 Chartres St.,New Orleans,LA,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+674,Golden Lantern,,1239 Royal St.,New Orleans,LA,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+675,Gigi's ,,740 N. Rampart St.,New Orleans,LA,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+676,Bobby's Korner,,800 Louisiana,Shreveport,LA,,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+677,Bull Pen,,516 Main Street,Daytona Beach,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+678,Gallery,(10p.m. - 4a.m. - best after 2a.m. when others closed *),2889 W Broward Blvd.,Ft. Lauderdale,FL,(*) - Very popular,Bars/Clubs,,only popular sometimes do I keep it as an amenity?,12/17/2019 9:53am,12/17/2019 9:53am
+679,Saloon,(trhough arcade),219 S.W. 1st. Ave.,Ft. Lauderdale,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+680,Melody Club,,4130 N.W. 6th St.,Gainsville,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+681,Tee Jay's ,,2100 N. Dixie Hwy.,Hollywood,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+682,Inner Sactum,,2952 Roosevelt,Jacksonville,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+683,Music Box,,628 Lake Ave.,Lake Worth,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+684,Alley Room Lounge ,(behind South Wind - enter through rear parking lot),1685 Alton Road,Miami Beach,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+685,Pin Up,,2228 Park Ave. ,Miami Beach,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+686,Fiesta Room,,110 Harrison Ave.,Panama City,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+687,Village Inn,,3701 E. Cervantes ,Pensacola,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+688,Sherwood,,7 N. 1st St.,St. Petersburg,FL,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+690,Finale II,,642 N. Rampart St.,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+691,Galley House,(Coming back nicely under new ownership),542 Chartres St.,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+692,Lafitte's In Exile,,901 Bourbon St. ,New Orleans,LA,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+693,Ritz Bar,,131 Brooke Ave. ,Norfolk,VA,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+694,Tradewinds,,"717 Franklin Rd., S.W.",Roanoke,VA,(*) - Very popular,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+695,Annex,,740 Burgundy ,New Orleans,LA,"(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+696,Crow Bar ,,504 N. 1st St.,Jacksonville Beach,FL,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+698,Basin Street ,,1610 Alton Road,Miami Beach,FL,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+699,Mirror Lounge,,311 North Blvd.,Baton Rouge,LA,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+700,Fellini's Madness ,,728 Rampart St.,New Orleans,LA,(D) - Dancing,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+703,Nook Bear Bar,(closes 12 p.m.) (Coral Gables),255 Minorca,Miami,FL,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+704,Post Office,,940 St. Louis,New Orleans,LA,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+705,Travis's,,834 N. Rampart St,New Orleans,LA,"(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+706,George's Place,,860 St. Louis St.,Baton Rouge,LA,"(D) - Dancing,(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+707,Bachelors West,(Sign in front says 'Aquarius' enter thru outside stairway off parking lot on south side in rear) (Le Jeune Rd.),820 S.W. 42nd Ave. ,Miami,FL,"(D) - Dancing,""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+709,Brady's,,700 N. Rampart St.,New Orleans,LA,"(D) - Dancing,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+710,Robbie's Yum Yum Tree West,,3006 E. Cervantes,Pensacola,FL,"(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+712,Delmonico's ,,218 Duval St.,Key West,FL,"(D) - Dancing,(YC) - Young and/or collegiate types,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,(Disco) Do I add an amenity option for it or is it just dancing? p. 52,12/17/2019 9:53am,12/17/2019 9:53am
+713,Damien's Yum Yum Tree ,(Holly Hill),703 N. Ridgewood,Daytona Beach,FL,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+714,Odds & Ends II,(U.S. Hwy 1),1416 S. Federal Hwy.,Ft. Lauderdale,FL,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+715,Patsy's Club,,766 E. 25th St.,Hilaleah,FL,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+716,Quarter orse,,507 St. Louis St. ,New Orleans,LA,"""(G) - Girls, but seldom exclusively""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+717,Odds & Ends ,(Oakland Park),3148 N.E. 12 Ave.,Ft. Lauderdale,FL,"""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+718,Grog,,718 N. Rampart St.,New Orleans,LA,"""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+719,Back Room,(Is in the back room),800 N. Federal Hwy. ,Hallandale,FL,"""(G) - Girls, but seldom exclusively"",(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+720,Miss Kay's & Maria's ,(behind 'Wild Bill's),323 - 23rd St. ,Miami Beach,FL,"""(G) - Girls, but seldom exclusively"",(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+721,Ted's Place ,,6120 Lillian Hwy.,Pensacola,FL,"""(G) - Girls, but seldom exclusively"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+722,Anita's ,,514 Ursulines,New Orleans,LA,"""(G) - Girls, but seldom exclusively"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+723,Caverns,(Best Late *),801 Bourbon St.,New Orleans,LA,"(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(B) - Blacks frequent,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+724,Pete's '800',,900 Bourbon St. ,New Orleans,LA,"(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+725,State Bar,,5 South Garden Avenue,Clearwater,FL,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+726,St. Nicholas Lounge,,3116 Atlantic Blvd.,Jacksonville,FL,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+727,Trader Jon's,(May be closing in '74),511 N. Pelafox,Pensacola,FL,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+728,Tradewinds,,124 Charlotte,St. Augustine,FL,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+729,Back Door,(weekends - use rear door) (Madeira Beach),14601 Gulf Blvd,St. Petersburg,FL,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+730,Golden Anchor ,,110 E. Waters Ave.,Tampa,FL,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+731,Abbey,,1123 Decatur St.,New Orleans,LA,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+732,Ched's ,,4139 St. Charles Ave.,New Orleans,LA,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+733,Unisex,(Nude go-go boys and girls - touristy),520 Bourbon St.,New Orleans,LA,(M) - Mixed or partially straight,Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+736,Cucujo's,($1.00 cover weekends),1725 W. Kennedy Blvd.,Tampa,FL,"(M) - Mixed or partially straight,""(G) - Girls, but seldom exclusively"",(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+738,Country Store,(Coconut Grove),2880 Florida Ave.,Miami,FL,"(M) - Mixed or partially straight,(PE) - Pretty elegant - jacket & tie may be required",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+739,Lancer's ,,7726 Hampton,Norfolk,VA,"(M) - Mixed or partially straight,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+740,My-O-My Club,(Touristy),940 Conti St.,New Orleans,LA,"(M) - Mixed or partially straight,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+741,Red Garter,,271 S. Colfax,Pensacola,FL,"(M) - Mixed or partially straight,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(D) - Dancing,(B) - Blacks frequent,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+742,Hababa's ,,931 W. Grace St.,Richmond,VA,"(M) - Mixed or partially straight,(YC) - Young and/or collegiate types",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+743,Fleur de Lis,,728 Austin Pl.,Shreveport,LA,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+744,809 Club,(St. Petersburg Beach),809 Gulf Blvd.,St. Petersburg,FL,"(P) - Private club - Inquire locally to admission,(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+745,Four-O-Nine Club,(Fri. & Sat. only),409 W. Broad St.,Richmond,VA,"(P) - Private club - Inquire locally to admission,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+746,Palace Club,(Open Wed. through Sat. after hours - BYOB),1000 Humphries,Orlando,FL,"(P) - Private club - Inquire locally to admission,(YC) - Young and/or collegiate types,(D) - Dancing,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",""(G) - Girls, but seldom exclusively"",(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+747,Carnival ,(Latins),137 N.E. 3rd Ave.,Miami,FL,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+748,Annex,,60 N. Orange Ave.,Orlando,FL,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+749,Gene's Hide-a-way,,608 Iberville,New Orleans,LA,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+750,Society's Page,('Mom's'),819 St. Louis St.,New Orleans,LA,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+751,Wanda's,,704 Iberville,New Orleans,LA,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+753,Mermaid,(Back Room at Vic's) - use side door - open 'till 5a.m.),101 N.E. 2nd Ave.,Miami,FL,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(*) - Very popular,(M) - Mixed or partially straight",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+754,Ohio Bar,,102 Polk,Tampa,FL,"""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(M) - Mixed or partially straight",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+757,Dial Tone,,Richmond Shopping Center 3526 W. Cary,Richmond,VA,"(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+758,Keith's Cruise Room ,(go-go boys) (Old Dixie Hwy.),813 S.E. 1st Ave. ,Hallandale,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+759,Brothers,,484 May St.,Jacksonville,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+761,Dock,,111 Riverside Mall,Baton Rouge,LA,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+762,Hi Camp,,415 market,Shreveport,LA,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+763,Mickey's,,135 Brooke Ave.,Norfolk,VA,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+765,Hollywood Lounge,,415 Main,Daytona Beach,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+766,French Quarter,,527 Main St.,Jacksonville,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+767,Top of the Tides ,(Upstairs),411 N. 1st St.,Jacksonville Beach,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+768,Cactus Room,,121 N. Bumby,Orlando,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+769,Diamond Head Lounge,,134 Magnolia ,Orlando,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+770,Sand Box ,,1002 S. Osprey,Sarasota,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+771,Carousel ,(Disco) ($1.50 minimum),1806 W. Platt,Tampa,FL,"(YC) - Young and/or collegiate types,(HIP) - Heads frequent,""(G) - Girls, but seldom exclusively"",(B) - Blacks frequent,(*) - Very popular,(D) - Dancing",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+772,Bachelors II,,2847 S.W. Coral Way,Miami,FL,"(YC) - Young and/or collegiate types,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+773,C'Est la Guerre,(May be closing),206 E. Vermilion ,Lafayette,LA,"(YC) - Young and/or collegiate types,(S) - Shows . . . impersonators or record pantomime acts . . . often touristy",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+774,Rene's,(Disco) ($1.50 minimum weekends),2605 W. Kennedy,Tampa,FL,"(YC) - Young and/or collegiate types,(W) - Western or coyboy types,(D) - Dancing,(*) - Very popular",Bars/Clubs,,,12/17/2019 9:53am,12/17/2019 9:53am
+775,Le Club Menage,(Disco) (Newest 'super bar' also has a (R)(H) & bath. good weekends),8000 N.E. Biscayne Blvd.,Miami,FL,"(P) - Private club - Inquire locally to admission,(D) - Dancing,(YC) - Young and/or collegiate types,(E) - Entertainment,""(H) - Hotel, motel, or other overnight accomodations"",(*) - Very popular","Bars/Clubs,Baths,Hotels",,,12/17/2019 9:53am,12/17/2019 9:53am
+776,Poop Deck,,Marlin Beach Hotel -17 S. Atlantic Blvd.,Ft. Lauderdale,FL,"(HIP) - Heads frequent,(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular","Bars/Clubs,Hotels",,Marlin Beach Hotel included in address in guides.,12/17/2019 9:53am,12/17/2019 9:53am
+778,Circus Bar,Hotel Floridian,433 W. Forythe,Jacksonville,FL,"(M) - Mixed or partially straight,(B) - Blacks frequent,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers""","Bars/Clubs,Hotels",,,12/17/2019 9:53am,12/17/2019 9:53am
+780,Rack ,"(11 a.m. - 1a.m.' Mon-Fri., 12 noon - 2a.m. on Sat., closes Sunday at 7p.m.) ",Dallas Park Hotel 231 S.E. 1st Ave.,Miami,FL,"(W) - Western or coyboy types,(*) - Very popular","Bars/Clubs,Hotels",,,12/17/2019 9:53am,12/17/2019 9:53am
+781,Regency Health Center Baths,(Upstairs),5 S.W. 2nd Ave.,Miami,FL,,Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+782,Canal Baths,,512 Gravier St. ,New Orleans,LA,,Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+783,Super Baths,,700 O'Keefe,New Orleans,LA,,Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+784,Club Daytona Baths,,709 1/2 Main Street,Daytona Beach,FL,(*) - Very popular,Baths,,Are fractional addresses unclear?,12/17/2019 9:53am,12/17/2019 9:53am
+785,Club Miami Baths,,2991 Coral Way,Miami,FL,(*) - Very popular,Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+786,Club Tampa Baths,,215 N. 11th St.,Tampa,FL,(*) - Very popular,Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+787,Club New Orleans Baths,,512 Toulouse Ave.,New Orleans,LA,(*) - Very popular,Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+788,Gym Steam Baths,,901 S. W. 27th Ave.,Ft. Lauderdale,FL,"(YC) - Young and/or collegiate types,(*) - Very popular",Baths,,,12/17/2019 9:53am,12/17/2019 9:53am
+832,Warehouse VIII,(Fantastic complex which includes main dance bar on 8th St. Tool Room 9 (W)(SM)* thru rear parking lot & indoor & outdoor rooftop bars with side entrance on 36th St. Open until 5a.m. Huge parking lot could also be listed under cruisy areas.),3600 S.W. 8th St.,Miami,FL,"(D) - Dancing,(*) - Very popular,(W) - Western or coyboy types","Cruising Areas,Bars/Clubs",,Ask about amenity in description p. 53,12/17/2019 9:53am,12/17/2019 9:53am
+833,Royal Inn,,4139 Busch Blvd.,Tampa,FL,"(D) - Dancing,""(H) - Hotel, motel, or other overnight accomodations"",(M) - Mixed or partially straight",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+834,Sea Mist Motel,(Daytona Beach Shores),2657 S. Atlantic,Daytona Beach,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,This and Damien's have descriptions that seem to be places.,12/17/2019 9:53am,12/17/2019 9:53am
+835,Bela-Mar Apt.-Motel,,3801 N. Ocean Blvd.,Ft. Lauderdale,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+836,Galt Riviera Motel,,3811 N. Ocean Blvd.,Ft. Lauderdale,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+837,Key Lime Village,,727 Truman Ave.,Key West,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+838,Lewis Lodge ,,5385 Barton Dr.,Orlando,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+839,Bay Bridge Motel,,916 E. Gregory St.,Pensacola,FL,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+840,Noble Arms Guest House,,1006 Royal St.,New Orleans,LA,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+841,Ursuline's Guest House,,708 Ursulines Ave. ,New Orleans,LA,"""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+842,Marlin Beach Hotel,(Ft. Lauderdale Beach),17 S. Atlantic Blvd.,Ft. Lauderdale,FL,"""(H) - Hotel, motel, or other overnight accomodations"",(*) - Very popular",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+843,Waverly Inn,(Coconut Grove),2665 S. Bayshore,Miami,FL,"""(H) - Hotel, motel, or other overnight accomodations"",(*) - Very popular",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+844,Gator Lodge,,4141 Phillips Hwy.,Jacksonville,FL,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+845,Lakeside Villas Motel,,1255 Lakeshore Way,Lake Alfred,FL,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+846,Y.M.C.A. ,,936 St. Charles St.,New Orleans,LA,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+847,Y.M.C.A.,,130 Brooke Ave,Norfolk,VA,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+848,Y.M.C.A. ,,2 W. Franklin St.,Richmond,VA,"(M) - Mixed or partially straight,""(H) - Hotel, motel, or other overnight accomodations""",Hotels,,,12/17/2019 9:53am,12/17/2019 9:53am
+849,Mermaid Room,La Concha Hotel,430 Duval St.,Key West,FL,,"Hotels,Bars/Clubs",,,12/17/2019 9:53am,12/17/2019 9:53am
+851,Howard Johnson's Motel Bar,,700 MacArthur Dr.,Alexandria,LA,(M) - Mixed or partially straight,"Hotels,Bars/Clubs",,,12/17/2019 9:53am,12/17/2019 9:53am
+852,Western Hills Motel Bar,(Weekends only - at bar) (Bosier City),3515 E. Texas,Shreveport,LA,(M) - Mixed or partially straight,"Hotels,Bars/Clubs",,Ask about gap between p. 76 and 94.,12/17/2019 9:53am,12/17/2019 9:53am
+855,Studio,,2340 S.W.. 17th Ave. at U.S. Hwy. 1,Miami,FL,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+856,White Lion,,20 Cuna,St. Augustine,FL,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+857,Fatted Calf,,727 St. Peter St.,New Orleans,LA,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+858,Marti's ,,1041 Dumaine St.,New Orleans,LA,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+859,Rod's Burger Shop,,514 St. Phillip ,New Orleans,LA,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+860,Fleet,,2013 Taussig,Norfolk,VA,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+862,Neil's ,,1675 Alton Road.,Miami Beach,FL,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+864,Ray Crawford's ,,721 E. Gregory ,Pensacola,FL,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+865,Cagle's ,,1918 W. Cervantes ,Pensacola,FL,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+866,Denny's ,,102 Parker,Tampa,FL,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+867,Mammy's Grill,,2128 E. Main,Richmond,VA,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",(AH) - After Hours",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+868,Occidental,,209 Granby,Norfolk,VA,"(M) - Mixed or partially straight,""(C) - Coffee, soft drinks and sometimes snacks"",""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(AH) - After Hours",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+869,Poor Boy Sandwich Shop,(No booze - after hours),6575 Gateway Ave.,Sarasota,FL,"(P) - Private club - Inquire locally to admission,""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+870,Garden Grate ,(same bldg. as Nite Owl & Pin Up),2232 Park Ave.,Miami Beach,FL,,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+871,Maxey's coffee Pot,,714 St. Peter St.,New Orleans,LA,,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+872,Street Car,(Snacks) (Upstairs - above Lafitte's),901 Bourbon St. ,New Orleans,LA,,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+873,Hamlet,(Coconut Grove),3416 Main Hwy.,Miami,FL,(*) - Very popular,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+874,Continental,(occassional shows),111 W. Tazewell,Norfolk,VA,"(B) - Blacks frequent,""(RT) - 'Raunchy types' - Hustlers, drags and other downtown type places - often hustlers"",(*) - Very popular",Restaurant,,Should I add the shows amenity? p.144,12/17/2019 9:53am,12/17/2019 9:53am
+875,Venture Inn,,1791 W. Broward,Ft. Lauderdale,FL,(D) - Dancing,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+876,Cue,(teenie boppers),4601 Killam,Norfolk,VA,(D) - Dancing,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+877,Nero's,Adjoining 'Diamond Head',134 Magnolia,Orlando,FL,"""(G) - Girls, but seldom exclusively""",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+878,Burgundy House,(Best Sundays),704 Burgundy St.,New Orleans,LA,"""(G) - Girls, but seldom exclusively""",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+879,Emy's,,918 royal St.,New Orleans,LA,(M) - Mixed or partially straight,Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+880,Ambassadors III ,(Latins - closed Monday),427- 22nd St.,Miami Beach,FL,"(YC) - Young and/or collegiate types,(D) - Dancing,(*) - Very popular",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+881,Raphael's,(also (C) after hours),426 Granby St.,Norfolk,VA,"(YC) - Young and/or collegiate types,(D) - Dancing,""(C) - Coffee, soft drinks and sometimes snacks""",Restaurant,,,12/17/2019 9:53am,12/17/2019 9:53am
+882,Cactus Lounge,(Recently expanded to several rooms including [R]),2041 N.E. Biscayne,Miami,FL,(*) - Very popular,"Restaurant,Bars/Clubs",,is the expanded room a restaurant?,12/17/2019 9:53am,12/17/2019 9:53am
+883,M.C.C.,(Church of Holy Spirit),1127 S.W. 2nd Ct.,Ft. Lauderdale,FL,(MCC) - Metropolitan Community Church,Church,,,12/17/2019 9:53am,12/17/2019 9:53am
+884,M.C.C.,,3901 N.W. 2nd Ave.,Miami,FL,(MCC) - Metropolitan Community Church,Church,,,12/17/2019 9:53am,12/17/2019 9:53am
+885,M.C.C.,,1375 magazine St.,New Orleans,LA,(MCC) - Metropolitan Community Church,Church,,,12/17/2019 9:53am,12/17/2019 9:53am
+886,'A' Adult Books,,1915 Federal Hwy.,Ft. Lauderdale,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+887,Books'n'things,,262 N. Federal Hwy. ,Hallandale,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+888,Fountainhead News Center ,,8 E. Bay St.,Jacksonville,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+889,Danny's Little River News,(book store),7839 N.E. 2nd Ave.,Miami,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+890,Danny's Book Store,,131 S.E. 1st Ave.,Miami,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+891,Sunset Adult Books,,5668 Sunset Dr.,Miami,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+892,Book Worm,(book store),101 N. Orange Ave.,Orlando,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+893,Orlando Book Mart,,1104 E. Colonial Dr.,Orlando,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+894,Book Exchange,,3928 W. Kennedy,Tampa,FL,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+895,Sidney's News Stand,,917 Decatur,New Orleans,LA,,Book Store,,,12/17/2019 9:53am,12/17/2019 9:53am
+896,Bank Theatre and Book Store,,941 Decatur St.,New Orleans,LA,,"Book Store,Theatre",,,12/17/2019 9:53am,12/17/2019 9:53am
+897,Mini Adult Theatre,,7321 Collins Ave.,Miami Beach,FL,,Theatre,,,12/17/2019 9:53am,12/17/2019 9:53am
+898,21st St. Art Theatre,,2039 Collins,Miami Beach,FL,,Theatre,,,12/17/2019 9:53am,12/17/2019 9:53am
+900,,,,,,,,,,12/17/2019 10:16am,

@@ -40,8 +40,8 @@ origAddress <- origAddress %>%
 origAddress$full.address <- paste(origAddress$streetaddress, ", ", origAddress$city, ", ", origAddress$state, sep="") 
 
 #drop unclear addresses. We may want to subset them into another data frame that we investigate further later in this process. 
-unclearaddresses <- origAddress %>% filter(str_detect(unclearaddress, "checked"))
-origAddress <- subset(origAddress, unclearaddress!="checked")
+#unclearaddresses <- origAddress %>% filter(str_detect(unclearaddress, "checked"))
+#origAddress <- subset(origAddress, unclearaddress!="checked")
 
 
 ##########GEOCODE DATA############################
@@ -73,13 +73,13 @@ ucleardata <- uncleardata %>%
 uncleardata$full.address <- paste(uncleardata$streetaddress, ", ", uncleardata$city, ", ", uncleardata$state, sep="") 
 
 #split Lat/Long out into two columns
-separate(uncleardata$Lat.Lon, c("lat", "lon"), ",")
+#separate(uncleardata$Lat.Lon, c("lat", "lon"), ",")
 uncleardata <- separate(uncleardata, col = Lat.Lon, into = c("lat","lon"), sep = ",")
 
 #make sure both dfs have same columns
 origAddress['Status'] = 'Geocoded'
 uncleardata['geoAddress'] = 'unclear_coded_by_hand'
-alldata <- rbind(origAddress, uncleardata)
+alldata <- rbind(origAddress2, uncleardata)
 
 
 ########MERGE THE TWO DATASETS########
