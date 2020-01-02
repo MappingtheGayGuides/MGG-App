@@ -12,10 +12,19 @@ server <- function(input, output, session) {
       city_filter <- strsplit(input$map.city, ", ")[[1]]
       
       map.data <- data %>% filter(Year == input$map.year)
+      
       if(input$map.am.feature != "Show all") {
         map.data <- map.data %>% 
           filter(grepl(input$map.am.feature, map.data$amenityfeatures))
       }
+      if(input$map.type == "Hotel Bars") {
+        map.data <- map.data %>%
+          filter(grepl("hotel", map.data$type) & grepl("Bars/Clubs", map.data$type))
+      } else if(input$map.type != "Show all") {
+        map.data <- map.data %>% 
+          filter(grepl(input$map.type, map.data$type))
+      }
+      
       
       if (all(city_filter != "All cities")) {
           map.data <- map.data %>% 
@@ -29,9 +38,11 @@ server <- function(input, output, session) {
    #current.year.data <- data %>% filter(Year == input$map_year)
     
   output$spaces_map <- renderLeaflet({
-      
-    leaflet(data.selected()) %>% addTiles() %>%
-        addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions(), popup = ~title)
+      data <- data.selected()
+      map <- leaflet() %>% addTiles() %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type))
+      map
+    #leaflet(data.selected()) %>% addTiles() %>%
+     #   addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions(), popup= )
 
     })
   
