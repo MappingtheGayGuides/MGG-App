@@ -9,8 +9,8 @@ ui <- fluidPage(
   theme= shinytheme("united"),
   tags$head(
     tags$script(src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.16/iframeResizer.contentWindow.min.js",
-                type="text/javascript"),
-    tags$script(src="https://kit.fontawesome.com/e7de980416.js", type="text/javascript")
+                type="text/javascript")
+     #tags$script(src="https://kit.fontawesome.com/e7de980416.js", type="text/javascript")
   ),  
   fluidRow(
     column(3, wellPanel(

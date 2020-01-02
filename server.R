@@ -39,7 +39,7 @@ server <- function(input, output, session) {
     
   output$spaces_map <- renderLeaflet({
       data <- data.selected()
-      map <- leaflet() %>% addTiles() %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type, "Status: ", data$Status))
+      map <- leaflet() %>% addTiles() %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$Status))
       map
     #leaflet(data.selected()) %>% addTiles() %>%
      #   addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions(), popup= )
@@ -55,7 +55,7 @@ server <- function(input, output, session) {
   output$spaces.table <- renderDataTable({
     
     dft <- data.selected() %>% arrange(state, city, Year) %>%
-      select(title, Year, description, streetaddress, city, state, amenityfeatures, Status)
+      select(title, Year, description, streetaddress, city, state, amenityfeatures, type, Status)
     
    
     
