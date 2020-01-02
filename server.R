@@ -51,7 +51,11 @@ server <- function(input, output, session) {
   
   })
   
-  
+  output$num.locations <- renderText({ 
+    map.data <- data.selected()
+    location.count <- map.data %>% summarise(n = n())
+    paste("There are ", location.count, " locations." )
+  })
   output$spaces.table <- renderDataTable({
     
     dft <- data.selected() %>% arrange(state, city, Year) %>%

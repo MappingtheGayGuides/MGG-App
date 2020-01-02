@@ -77,6 +77,7 @@ ui <- fluidPage(
              condition = "input['map.year'] == 1967",
              includeHTML("nodatanotice.html")
            )),
+          h5(textOutput("num.locations")),  
     dataTableOutput("spaces.table", width="100%", height="auto")
   ),
   HTML('<div data-iframe-height></div>')
