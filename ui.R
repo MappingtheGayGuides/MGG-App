@@ -61,7 +61,9 @@ ui <- fluidPage(
               "Other" = "Other",
               "Religious Instituion" = "Church"
         )), 
-      includeHTML("authors.html")
+      actionButton("reset_button", "Reset Filters",
+                   icon = icon("repeat"), class = "btn-warning btn-sm"),
+      includeHTML("about.html")
     )),
     
     column(9,

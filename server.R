@@ -60,5 +60,12 @@ server <- function(input, output, session) {
    
     
   })
-    
+  
+  # Reset Filters
+  observeEvent(input$reset_button, {
+    updateSelectInput(session, "map.city", selected = "All cities")
+    #updateSliderTextInput(session, "map.year", value = 1965)
+    updateSelectInput(session, "map.am.feature", selected = "Show all")
+    updateSelectInput(session, "map.type", selected = "Show all")
+  })
 }
