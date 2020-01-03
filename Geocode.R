@@ -79,7 +79,8 @@ uncleardata <- separate(uncleardata, col = Lat.Lon, into = c("lat","lon"), sep =
 #make sure both dfs have same columns
 origAddress['Status'] = 'Geocoded'
 uncleardata['geoAddress'] = 'unclear_coded_by_hand'
-alldata <- rbind(origAddress2, uncleardata)
+uncleardata <- uncleardata %>% select(-"Postal.Code", -"isreferencedby", -"unclearaddress")
+alldata <- rbind(origAddress, uncleardata)
 
 
 ########MERGE THE TWO DATASETS########
