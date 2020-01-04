@@ -12,14 +12,17 @@ server <- function(input, output, session) {
       city_filter <- strsplit(input$map.city, ", ")[[1]]
       
       map.data <- data %>% filter(Year == input$map.year)
-      
+      if(input$filter.verified == TRUE) {
+        map.data <- map.data %>%
+          filter(Status=="Found" | Status =="Geocoded")
+      }
       if(input$map.am.feature != "Show all") {
         map.data <- map.data %>% 
           filter(grepl(input$map.am.feature, map.data$amenityfeatures))
       }
       if(input$map.type == "Hotel Bars") {
         map.data <- map.data %>%
-          filter(grepl("hotel", map.data$type) & grepl("Bars/Clubs", map.data$type))
+          filter(type=="Hotels,Bars/Clubs")
       } else if(input$map.type != "Show all") {
         map.data <- map.data %>% 
           filter(grepl(input$map.type, map.data$type))
@@ -41,8 +44,7 @@ server <- function(input, output, session) {
       data <- data.selected()
       map <- leaflet() %>% addTiles() %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$Status))
       map
-    #leaflet(data.selected()) %>% addTiles() %>%
-     #   addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions(), popup= )
+    
 
     })
   
@@ -53,7 +55,7 @@ server <- function(input, output, session) {
   
   output$num.locations <- renderText({ 
     map.data <- data.selected()
-    location.count <- map.data %>% summarise(n = n())
+    location.count <- length(map.data$title)
     paste("There are ", location.count, " locations." )
   })
   output$spaces.table <- renderDataTable({
@@ -71,5 +73,7 @@ server <- function(input, output, session) {
     #updateSliderTextInput(session, "map.year", value = 1965)
     updateSelectInput(session, "map.am.feature", selected = "Show all")
     updateSelectInput(session, "map.type", selected = "Show all")
+    updateCheckboxInput(session, "filter.verified", value = FALSE)
+    updateSliderTextInput(session, "map.year", selected=1965)
   })
 }

@@ -52,15 +52,16 @@ ui <- fluidPage(
               "Bars or Clubs" = "Bars/Clubs",
               "Bath Houses" = "Baths",
               "Hotels" = "Hotels",
-              "Hotel Bars" = "Bars/Clubs,Hotels",
+              "Hotel Bars" = list("Hotels,Bars/Clubs","Bars/Clubs,Hotels"),
               "Cruising Areas", "Cruising Areas",
-              "Restaurants" = "Restaurants",
+              "Restaurants" = "Restaurant",
               "Book Store" = "Book Store",
               "Theatre" = "Theatre",
               "Business" = "Business",
               "Other" = "Other",
               "Religious Instituion" = "Church"
         )), 
+      checkboxInput("filter.verified", "Show only verified locations?", value = FALSE),
       actionButton("reset_button", "Reset Filters",
                    icon = icon("repeat"), class = "btn-warning btn-sm"),
       includeHTML("about.html")

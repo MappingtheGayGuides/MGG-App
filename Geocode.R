@@ -93,8 +93,8 @@ alldata <- rbind(origAddress, uncleardata)
 alldata$lat <- as.numeric(alldata$lat)
 alldata$lon <- as.numeric(alldata$lon)
 # Write a CSV file containing origAddress to the working directory
-write.csv(test, "NGSData/CodedData/CompleteDataset.csv", row.names=FALSE)
-saveRDS(test, "NGSData/Data.rds")
+write.csv(alldata, "NGSData/CodedData/CompleteDataset.csv", row.names=FALSE)
+saveRDS(alldata, "NGSData/Data.rds")
 
 
 
