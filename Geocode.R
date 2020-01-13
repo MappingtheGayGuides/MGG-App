@@ -96,16 +96,6 @@ alldata$lon <- as.numeric(alldata$lon)
 write.csv(alldata, "NGSData/CodedData/CompleteDataset.csv", row.names=FALSE)
 saveRDS(alldata, "NGSData/Data.rds")
 
-
-
-########LEAFLET TEST (uncessary and can be deleted)########
-
-#test the map -- good for identifying errors right off the bat. 
-library(leaflet)
-
-leaflet(data = alldata) %>% addTiles() %>%
-  addMarkers(~lon, ~lat, clusterOptions = markerClusterOptions())
-
 #Generate city, state lables for drop down. 
 
 location.list <- subset(origAddress, select=c("city", "state"))

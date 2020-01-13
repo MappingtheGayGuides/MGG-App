@@ -20,9 +20,9 @@ server <- function(input, output, session) {
         map.data <- map.data %>% 
           filter(grepl(input$map.am.feature, map.data$amenityfeatures))
       }
-      if(input$map.type == "Hotel Bars") {
+      if(input$map.type == "Hotel Bar") {
         map.data <- map.data %>%
-          filter(type=="Hotels,Bars/Clubs")
+          filter(grepl("Bars.Clubs", map.data$type) & grepl("Hotels", map.data$type))
       } else if(input$map.type != "Show all") {
         map.data <- map.data %>% 
           filter(grepl(input$map.type, map.data$type))
@@ -42,7 +42,7 @@ server <- function(input, output, session) {
     
   output$spaces_map <- renderLeaflet({
       data <- data.selected()
-      map <- leaflet() %>% addTiles() %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$Status))
+      map <- leaflet() %>% addTiles() %>% addProviderTiles(providers$CartoDB.Positron) %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$Status))
       map
     
 
@@ -62,7 +62,7 @@ server <- function(input, output, session) {
     
     dft <- data.selected() %>% arrange(state, city, Year) %>%
       select(title, Year, description, streetaddress, city, state, amenityfeatures, type, Status)
-    
+    datatable(dft, options = list(lengthMenu = c(15,25,50,100), pageLength=50))
    
     
   })

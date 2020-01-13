@@ -52,7 +52,7 @@ ui <- fluidPage(
               "Bars or Clubs" = "Bars/Clubs",
               "Bath Houses" = "Baths",
               "Hotels" = "Hotels",
-              "Hotel Bars" = list("Hotels,Bars/Clubs","Bars/Clubs,Hotels"),
+              "Hotel Bars" = "Hotel Bar",
               "Cruising Areas", "Cruising Areas",
               "Restaurants" = "Restaurant",
               "Book Store" = "Book Store",
