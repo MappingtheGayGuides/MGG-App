@@ -16,16 +16,22 @@ server <- function(input, output, session) {
         map.data <- map.data %>%
           filter(Status=="Found" | Status =="Geocoded")
       }
-      if(input$map.am.feature != "Show all") {
+      
+      if(input$map.am.feature == "(G)" && input$map.year != 1980) {
+        map.data <- map.data %>% filter(grepl("(G)", map.data$amenityfeatures, fixed = TRUE))  
+      } else if (input$map.am.feature == "(G)" && input$map.year == 1980) {
+        map.data <- map.data %>% filter(grepl("(L)", map.data$amenityfeatures, fixed = TRUE))  
+      } else if(input$map.am.feature != "Show all") {
         map.data <- map.data %>% 
-          filter(grepl(input$map.am.feature, map.data$amenityfeatures))
-      }
+          filter(grepl(input$map.am.feature, map.data$amenityfeatures, fixed = TRUE))
+      } 
+      
       if(input$map.type == "Hotel Bar") {
         map.data <- map.data %>%
-          filter(grepl("Bars.Clubs", map.data$type) & grepl("Hotels", map.data$type))
+          filter(grepl("Bars/Clubs", map.data$type, fixed = TRUE) & grepl("Hotels", map.data$type,  fixed = TRUE))
       } else if(input$map.type != "Show all") {
         map.data <- map.data %>% 
-          filter(grepl(input$map.type, map.data$type))
+          filter(grepl(input$map.type, map.data$type, fixed = TRUE))
       }
       
       
