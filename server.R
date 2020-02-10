@@ -62,7 +62,7 @@ server <- function(input, output, session) {
   output$num.locations <- renderText({ 
     map.data <- data.selected()
     location.count <- length(map.data$title)
-    paste("There are ", location.count, " locations." )
+    paste("In ", input$map.year, " there are ", location.count, " locations. Scroll through each one in the table below." )
   })
   output$spaces.table <- renderDataTable({
     
