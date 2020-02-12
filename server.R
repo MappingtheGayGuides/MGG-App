@@ -14,7 +14,7 @@ server <- function(input, output, session) {
       map.data <- data %>% filter(Year == input$map.year)
       if(input$filter.verified == TRUE) {
         map.data <- map.data %>%
-          filter(Status=="Found" | Status =="Geocoded")
+          filter(Status=="Verified Location" | Status =="Google Verified Location")
       }
       
       if(input$map.am.feature == "(G)" && input$map.year != 1980) {

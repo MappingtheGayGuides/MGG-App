@@ -50,7 +50,7 @@ ui <- fluidPage(
         selectInput("map.type", "Choose a Type: ", c(
               "Show all" = "Show all",
               "Bars or Clubs" = "Bars/Clubs",
-              "Bath Houses" = "Baths",
+              "Bathouses" = "Baths",
               "Hotels" = "Hotels",
               "Hotel Bars" = "Hotel Bar",
               "Cruising Areas", "Cruising Areas",

@@ -1,0 +1,12 @@
+name: MappingtheNewGaySouth
+title: MappingtheNewGaySouth
+username:
+account: mappingthegayguides
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1788306
+bundleId: 2794016
+url: https://mappingthegayguides.shinyapps.io/MappingtheNewGaySouth/
+when: 1581482683.4418
+asMultiple: FALSE
+asStatic: FALSE
