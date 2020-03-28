@@ -9,7 +9,7 @@ server <- function(input, output, session) {
   
     data.selected <- reactive({
       
-      city_filter <- strsplit(input$map.city, ", ")[[1]]
+      #city_filter <- strsplit(input$map.city, ", ")[[1]]
       
       map.data <- data %>% filter(Year == input$map.year)
       if(input$filter.verified == TRUE) {
@@ -35,9 +35,9 @@ server <- function(input, output, session) {
       }
       
       
-      if (all(city_filter != "All cities")) {
+      if (all(input$map.city != "All locations")) {
           map.data <- map.data %>% 
-            filter(city == city_filter[1], state == city_filter[2])
+            filter(state == input$map.city)
       }
       
       map.data  
@@ -75,7 +75,7 @@ server <- function(input, output, session) {
   
   # Reset Filters
   observeEvent(input$reset_button, {
-    updateSelectInput(session, "map.city", selected = "All cities")
+    updateSelectInput(session, "map.city", selected = "All locations")
     #updateSliderTextInput(session, "map.year", value = 1965)
     updateSelectInput(session, "map.am.feature", selected = "Show all")
     updateSelectInput(session, "map.type", selected = "Show all")

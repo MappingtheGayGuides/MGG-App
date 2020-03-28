@@ -14,7 +14,23 @@ ui <- fluidPage(
   ),  
   fluidRow(
     column(3, wellPanel(
-      selectInput("map.city", "Choose a city:", cities),
+      selectInput("map.city", "Choose a location:", 
+                  c(
+                    "All locations" = "All locations",
+                    "Alabama" = "AL",
+                    "Arkanasas" = "AR",
+                    "California" = "CA",
+                    "Florida" = "FL",
+                    "Georgia" = "GA",
+                    "Kentucky" = "KY",
+                    "Louisiana" = "LA",
+                    "Mississippi" = "MS",
+                    "North Carolina" = "NC",
+                    "South Carolina" = "SC",
+                    "Tennessee" = "TN",
+                    "Texas" = "TX",
+                    "Virginia" = "VA"
+                    )),
       selectInput("map.am.feature", "Choose an establishment feature:", 
                   c("Show all" = "Show all",
                     "Very Popular" = "Very popular",
