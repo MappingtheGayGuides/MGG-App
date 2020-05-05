@@ -14,7 +14,7 @@ server <- function(input, output, session) {
       map.data <- data %>% filter(Year == input$map.year)
       if(input$filter.verified == TRUE) {
         map.data <- map.data %>%
-          filter(Status=="Verified Location" | Status =="Google Verified Location")
+          filter(status=="Verified Location" | status =="Google Verified Location")
       }
       
       if(input$map.am.feature == "(G)" && input$map.year != 1980) {
@@ -48,7 +48,7 @@ server <- function(input, output, session) {
     
   output$spaces_map <- renderLeaflet({
       data <- data.selected()
-      map <- leaflet() %>% addTiles() %>% addProviderTiles(providers$CartoDB.Positron) %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$Status))
+      map <- leaflet() %>% addTiles() %>% addProviderTiles(providers$CartoDB.Positron) %>% addMarkers(lng = data$lon, lat = data$lat, clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description,"<br><b>Amenities: </b>", data$amenityfeatures, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$status))
       map
     
 
@@ -67,7 +67,7 @@ server <- function(input, output, session) {
   output$spaces.table <- renderDataTable({
     
     dft <- data.selected() %>% arrange(state, city, Year) %>%
-      select(title, Year, description, streetaddress, city, state, amenityfeatures, type, Status)
+      select(title, Year, description, streetaddress, city, state, amenityfeatures, type, status)
     datatable(dft, options = list(lengthMenu = c(15,25,50,100), pageLength=50))
    
     
