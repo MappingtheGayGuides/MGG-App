@@ -25,7 +25,7 @@ shinyServer(function(input, output, session) {
     
     if(input$map.type == "Hotel Bar") {
       map.data <- map.data %>%
-        filter(grepl("Bars/Clubs", map.data$type, fixed = TRUE) & grepl("Hotels", map.data$type,  fixed = TRUE))
+        filter(grepl("Bars/Clubs", map.data$type, fixed = TRUE) & grepl("Hotel", map.data$type,  fixed = TRUE))
     } else if(input$map.type != "Show all") {
       map.data <- map.data %>% 
         filter(grepl(input$map.type, map.data$type, fixed = TRUE))
@@ -49,7 +49,8 @@ shinyServer(function(input, output, session) {
   
   bib_for_map <- reactive({
     data.selected() %>%
-      arrange(state, city, Year)
+      arrange(state, city, Year) %>%
+      select(title, Year, description, streetaddress, city, state, amenityfeatures, type, status, lat, lon)
   })
   
   
@@ -57,31 +58,43 @@ shinyServer(function(input, output, session) {
   output$spaces_map <- renderLeaflet({
     leaflet() %>%
       addTiles(options = tileOptions(minZoom = 3)) %>%
-      setView(lat = 37.45, lng = -93.85, zoom = 4) %>%
-      setMaxBounds(-125.0011, 24.9493, -66.9326, 49.5904)
+      setView(lat = 37.45, lng = -93.85, zoom = 3) %>%
+      setMaxBounds(-132.068706, 14.670437, -69.999931, 73.278273)
   })
-  
+
   
   output$spaces.table <- DT::renderDataTable({bib_for_table()},
-                                         server = FALSE, rownames = FALSE,
+                                         rownames = FALSE,
                                          class = "display compact",
                                          style = "bootstrap",
-                                         options = list(lengthMenu = c(15,25,50,100), pageLength=50))
+                                         options = list(pageLength=50))
+  
+  output$num.locations <- renderText({ 
+    map.data <- data.selected()
+    location.count <- length(map.data$title)
+    paste("In ", input$map.year, " there are ", location.count, " locations. Scroll through each one in the table below." )
+  })
   
   observe({
     df <- bib_for_map()
     
-    leafletProxy("spaces_map", data = df) %>%
-      clearMarkers() %>%
+    leafletProxy("spaces_map", session) %>%
+      clearMarkerClusters() %>%
       clearPopups()
     
       leafletProxy("spaces_map", data = df) %>%
-        addMarkers(lng = ~lon, lat = ~lat, clusterOptions = markerClusterOptions(),popup= paste("<b>Location Name:</b>", df$title, "<br><b>Description: </b>", df$description,"<br><b>Amenities: </b>", df$amenityfeatures, "<br><b>Type: </b>", df$type, "<br><b>Status: </b>", df$status))
+        addMarkers(lng = ~lon, lat = ~lat, popup= paste("<b>Location Name:</b>", df$title, "<br><b>Description: </b>", df$description,"<br><b>Amenities: </b>", df$amenityfeatures, "<br><b>Type: </b>", df$type, "<br><b>Status: </b>", df$status), clusterOptions = markerClusterOptions(maxClusterRadius = 43))
     
-      #clusterOptions = markerClusterOptions(), popup= paste("<b>Location Name:</b>", data$title, "<br><b>Description: </b>", data$description,"<br><b>Amenities: </b>", data$amenityfeatures, "<br><b>Type: </b>", data$type, "<br><b>Status: </b>", data$status))
+      
       
   }) # End Observe
-  
+  observeEvent(input$reset_button, {
+    updateSelectInput(session, "map.city", selected = "All locations")
+    updateSelectInput(session, "map.am.feature", selected = "Show all")
+    updateSelectInput(session, "map.type", selected = "Show all")
+    updateCheckboxInput(session, "filter.verified", value = FALSE)
+    updateSliderTextInput(session, "map.year", selected=1965)
+  })
   
   }) # end ShinyServer function
 
