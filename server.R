@@ -59,7 +59,7 @@ shinyServer(function(input, output, session) {
     leaflet() %>%
       addTiles(options = tileOptions(minZoom = 3)) %>%
       setView(lat = 37.45, lng = -93.85, zoom = 3) %>%
-      setMaxBounds(-132.068706, 14.670437, -69.999931, 73.278273)
+      setMaxBounds(-173.048175,12.123149, -37.086542,73.348815)
   })
 
   
