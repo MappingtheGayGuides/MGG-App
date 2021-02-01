@@ -96,5 +96,7 @@ shinyServer(function(input, output, session) {
     updateSliderTextInput(session, "map.year", selected=1965)
   })
   
+ 
+  
   }) # end ShinyServer function
 

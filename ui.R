@@ -9,8 +9,10 @@ ui <- fluidPage(
   theme= shinytheme("united"),
   tags$head(
     tags$script(src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.16/iframeResizer.contentWindow.min.js",
-                type="text/javascript")
-     #tags$script(src="https://kit.fontawesome.com/e7de980416.js", type="text/javascript")
+                type="text/javascript"),
+    tags$script(src="style.css", type=""),
+    tags$link(rel = "stylesheet", type = "text/css", href = "style.css")
+    
   ),  
   fluidRow(
     column(3, wellPanel(
@@ -70,7 +72,7 @@ ui <- fluidPage(
                     "Wisconsin" = "WI",
                     "Wyoming" = "WY"
                     ), selectize=TRUE),
-      selectInput("map.am.feature", "Choose an establishment feature:", 
+      selectInput("map.am.feature", "Choose an amenity feature:", 
                   c("Show all" = "Show all",
                     "Very Popular - (*)" = "(*)",
                     "After Hours - (AH)" = "(AH)",
@@ -102,7 +104,7 @@ ui <- fluidPage(
                     "Cruisy Areas" = "Cruisy Area"
                   ), 
                   selected = "Show all", multiple = FALSE, selectize = TRUE, width = NULL, size = NULL),
-        selectInput("map.type", "Choose a Type: ", c(
+        selectInput("map.type", "Choose a location type: ", c(
               "Show all" = "Show all",
               "Bars or Clubs" = "Bars/Clubs",
               "Bathhouses" = "Baths",

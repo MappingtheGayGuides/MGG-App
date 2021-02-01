@@ -5,8 +5,8 @@ account: mappingthegayguides
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1788306
-bundleId: 3149589
+bundleId: 3502575
 url: https://mappingthegayguides.shinyapps.io/MappingtheNewGaySouth/
-when: 1589501867.59699
+when: 1597164553.1435
 asMultiple: FALSE
 asStatic: FALSE
