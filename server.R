@@ -22,15 +22,6 @@ shinyServer(function(input, output, session) {
         filter(grepl(input$map.am.feature, map.data$amenityfeatures, fixed = TRUE))
     }
 
-    if (input$map.type == "Hotel Bar") {
-      map.data <- map.data %>%
-        filter(grepl("Bars/Clubs", map.data$type, fixed = TRUE) & grepl("Hotel", map.data$type, fixed = TRUE))
-    } else if (input$map.type != "Show all") {
-      map.data <- map.data %>%
-        filter(grepl(input$map.type, map.data$type, fixed = TRUE))
-    }
-
-
     if (all(input$map.city != "All locations")) {
       map.data <- map.data %>%
         filter(state == input$map.city)
@@ -90,7 +81,7 @@ shinyServer(function(input, output, session) {
   observeEvent(input$reset_button, {
     updateSelectInput(session, "map.city", selected = "All locations")
     updateSelectInput(session, "map.am.feature", selected = "Show all")
-    updateSelectInput(session, "map.type", selected = "Show all")
+    # updateSelectInput(session, "map.type", selected = "Show all")
     updateCheckboxInput(session, "filter.verified", value = FALSE)
     updateSliderTextInput(session, "map.year", selected = 1965)
   })

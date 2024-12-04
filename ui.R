@@ -123,19 +123,6 @@ ui <- fluidPage(
         ),
         selected = "Show all", multiple = FALSE, selectize = TRUE, width = NULL, size = NULL
       ),
-      selectInput("map.type", "Choose a Type: ", c(
-        "Show all" = "Show all",
-        "Bars or Clubs" = "Bars/Clubs",
-        "Bathhouses" = "Baths",
-        "Hotels" = "Hotel",
-        "Hotel Bars" = "Hotel Bar",
-        "Cruising Areas", "Cruising Areas",
-        "Restaurants" = "Restaurant",
-        "Book Store" = "Book Store",
-        "Theatre" = "Theatre",
-        "Business" = "Business",
-        "Religious Instituion" = "Church"
-      )),
       checkboxInput("filter.verified", "Show only verified locations?", value = FALSE),
       actionButton("reset_button", "Reset Filters",
         icon = icon("repeat"), class = "btn-warning btn-sm"
